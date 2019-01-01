@@ -1,0 +1,2530 @@
+AF	AFGHANISTAN
+  Language	Short name	Formal name
+  National Official
+  Dari	‫َأفْغَا ِن ْس تَان‬	‫م ُْجه ِمورئ إ ْسال ِمئ َأفْغَا ِن ْس َتان‬
+  
+  Jomhūrī-ye Eslāmī-ye Afghānestān
+  Afghānestān
+  ps: Pashto	‫َأفْغَا ِن ْس تَان‬	‫ِد َأفْغَا ِن ْس تَان إ ْسال ِمی م ُْجهمو ِريَت‬
+  
+  Afghā̄nistān (1)	Afghānistān Islāmī Jumhūrīyat (Dê) (1)
+  UN Official
+  English	Afghanistan	Islamic Republic of Afghanistan (the)
+  French	Afghanistan (l’) (masc.)	République islamique d’Afghanistan (la)
+  Spanish	Afganistán (el)	República Islámica del Afganistán (la)
+  Russian	Афганистан	Исламская Республика Афганистан
+  Chinese	阿富汗	阿富汗伊斯兰共和国
+  Arabic	‫َأفْغَا ِن ْس تَان‬	‫م ُْجه ِموريَّة َأفْغَا ِن ْس تَان َإل ْإسال ِميَّة‬
+  Notes	(1) Romanization in the BGN/PCGN 1968 Pashto system
+AL	ALBANIA
+  Language	Short name	Formal name
+  National Official
+  Shqipëri	(1)
+  sq: Albanian	Shqipëria (2)	Republika e Shqipërisë
+  UN Official
+  English	Albania	Republic of Albania (the)
+  French	Albanie (l’) (fém.)	République d’Albanie (la)
+  Spanish	Albania	República de Albania (la)
+  Russian	Албания	Республика Албания
+  Chinese	阿尔巴尼亚	阿尔巴尼亚共和国
+  Arabic	‫ألبانيا‬	‫ُجهورية ألبانيا‬
+  Notes	(1) Indefinite Short name, (2) Definite Short name
+DZ	ALGERIA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ َج َزإئِر‬	‫َإلْ مج ْمه ِموريَّة َإلْ َج َزإئِ ِريَّة إَ د ِلمي م ْق َرإ ِطيَّة إَلشَّ ْع ِبيَّة‬
+  Al Jazā̄’ir	Al Jumhūriyyah al Jazā’iriyyah ad Dīmuqrāţ̧iyyah
+  ash Sha‘biyyah
+  UN Official
+  English	Algeria	People’s Democratic Republic of Algeria (the)
+  French	Algérie (l’) (fém.)	République algérienne
+  démocratique et populaire (la)
+  Spanish	Argelia	República Argelina Democrática y Popular (la)
+  Russian	Алжир	Алжирская Народная
+  Демократическая Республика
+  Chinese	阿尔及利亚	阿尔及利亚民主人民共和国
+  Arabic	‫إجلزإئر‬	‫إمجلهورية إجلزإئرية إلميقرإطية إلشعبية‬
+  Notes
+AD	ANDORRA
+  Language	Short name	Formal name
+  National Official
+  ca: Catalan	Andorra	Principat d’Andorra
+  UN Official
+  English	Andorra	Principality of Andorra (the)
+  French	Andorre (l’) (fém.)	Principauté d’Andorre (la)
+  Spanish	Andorra	Principado de Andorra (el)
+  Russian	Андорра	Княжество Андорра
+  Chinese	安道尔	安道尔公国
+  Arabic	‫أندورإ‬	‫إإمارة أندورإ‬
+  Notes
+AO	ANGOLA
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Angola	República de Angola (a)
+  UN Official
+  English	Angola	Republic of Angola (the)
+  French	Angola (l’) (masc.)	République d’Angola (la)
+  Spanish	Angola	República de Angola (la)
+  Russian	Ангола	Республика Ангола
+  Chinese	安哥拉	安哥拉共和国
+  Arabic	‫أنغول‬	‫ُجهورية أنغول‬
+  Notes
+AG	ANTIGUA AND BARBUDA
+  Language	Short name	Formal name
+  National Official
+  en: English	Antigua and Barbuda	Antigua and Barbuda
+  UN Official
+  English	Antigua and Barbuda	Antigua and Barbuda
+  French	Antigua-et-Barbuda (fém.)	Antigua-et-Barbuda (fém.)
+  Spanish	Antigua y Barbuda	Antigua y Barbuda
+  Russian	Антигуа и Барбуда	Антигуа и Барбуда
+  Chinese	安提瓜和巴布达	安提瓜和巴布达
+  Arabic	‫أنتيغوإ وبربودإ‬	‫أنتيغوإ وبربودإ‬
+  Notes
+AR	ARGENTINA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Argentina (la)	República Argentina (la)
+  UN Official
+  English	Argentina	Argentine Republic (the)
+  French	Argentine (l’) (fém.)	République argentine (la)
+  Spanish	Argentina (la)	República Argentina (la)
+  Russian	Аргентина	Аргентинская Республика
+  Chinese	阿根廷	阿根廷共和国
+  Arabic	‫إلرجنتني‬	‫ُجهورية إلرجنتني‬
+  Notes
+AM	ARMENIA
+  Language	Short name	Formal name
+  National Official
+  hy: Armenian	Հայաստան	Հայաստանի Հանրապետություն
+  Hayastan (1)	Hayastani Hanrapetut’yun
+  UN Official
+  English	Armenia	Republic of Armenia (the)
+  French	Arménie (l’) (fém.)	République d’Arménie (la)
+  Spanish	Armenia	República de Armenia (la)
+  Russian	Армения	Республика Армения
+  Chinese	亚美尼亚	亚美尼亚共和国
+  Arabic	‫أرمينيا‬	‫ُجهورية أرمينيا‬
+  Notes	(1) Local form resulting from the Armenian alphabet, romanization in the Eastern Armenian system
+  and in the BGN/PCGN 1981 system
+AU	AUSTRALIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Australia	Commonwealth of Australia (the)
+  UN Official
+  English	Australia	Australia
+  French	Australie (l’) (fém.)	Australie (l’) (fém.)
+  Spanish	Australia	Australia
+  Russian	Австралия	Австралия
+  Chinese	澳大利亚	澳大利亚
+  Arabic	‫أسرتإليا‬	‫أسرتإليا‬
+  Notes
+AT	AUSTRIA
+  Language	Short name	Formal name
+  National Official
+  de: German	Österreich	Republik Österreich (die)
+  UN Official
+  English	Austria	Republic of Austria (the)
+  French	Autriche (l’) (fém.)	République d’Autriche (la)
+  Spanish	Austria	República de Austria (la)
+  Russian	Австрия	Австрийская Республика
+  Chinese	奥地利	奥地利共和国
+  Arabic	‫إلمنسا‬	‫ُجهورية إلمنسا‬
+  Notes
+AZ	AZERBAIJAN
+  Language	Short name	Formal name
+  National Official
+  az: Azerbaijani	Azǝrbaycan (1)	Azǝrbaycan Respublikası (1)
+  UN Official
+  English	Azerbaijan	Republic of Azerbaijan (the)
+  French	Azerbaïdjan (l’) (masc.)	République d’Azerbaïdjan (la)
+  Spanish	Azerbaiyán	República de Azerbaiyán (la)
+  Russian	Азербайджан	Азербайджанская Республика
+  Chinese	阿塞拜疆	阿塞拜疆共和国
+  Arabic	‫أذربيجان‬	‫إمجلهورية إلذربيجانية‬
+  Notes	(1) Local form in Azerbaijani Latin alphabet
+  Variant for Azərbaycan: Azärbaycan
+BS	BAHAMAS
+  Language	Short name	Formal name
+  National Official
+  en: English	The Bahamas	Commonwealth of The Bahamas (the)
+  UN Official
+  English	Bahamas (the)	Commonwealth of the Bahamas (the)
+  French	Bahamas (les) (fém.)	Commonwealth des Bahamas (le)
+  Spanish	Bahamas (las)	Commonwealth de las Bahamas (el)
+  Russian	Багамские Острова	Содружество Багамских Островов
+  Chinese	巴哈马	巴哈马国
+  Arabic	‫جزر إلهباما‬	‫مكنولث جزر إلهباما‬
+  Notes
+BH	BAHRAIN
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ َب ْح َريْن‬	‫َم ْملَ َكة إَلْ َب ْح َريْن‬
+  Al Baḩrayn	Mamlakat al Baḩrayn
+  UN Official
+  English	Bahrain	Kingdom of Bahrain (the)
+  French	Bahreïn (masc.)	Royaume de Bahreïn (le)
+  Spanish	Bahrein	Reino de Bahrein (el)
+  Russian	Бахрейн	Королевство Бахрейн
+  Chinese	巴林	巴林王国
+  Arabic	‫إلبحرين‬	‫مملكة إلبحرين‬
+  Notes
+BD	BANGLADESH
+  Language	Short name	Formal name
+  National Official
+  bn: Bengali	বাাংলাদেশ	গণপ্রজাতন্ত্রী বাাংলাদেশ
+  Bāṁlādesh	Gaṇaprajātantrī Bāṁlādesh
+  UN Official
+  English	Bangladesh	People’s Republic of Bangladesh (the)
+  French	Bangladesh (le)	République populaire du Bangladesh (la)
+  Spanish	Bangladesh	República Popular de Bangladesh (la)
+  Russian	Бангладеш	Народная Республика Бангладеш
+  Chinese	孟加拉国	孟加拉人民共和国
+  Arabic	‫بنغالديش‬	‫ُجهورية بنغالديش إلشعبية‬
+  Notes
+BB	BARBADOS
+  Language	Short name	Formal name
+  National Official
+  en: English	Barbados	Barbados
+  UN Official
+  English	Barbados	Barbados
+  French	Barbade (la)	Barbade (la)
+  Spanish	Barbados	Barbados
+  Russian	Барбадос	Барбадос
+  Chinese	巴巴多斯	巴巴多斯
+  Arabic	‫برابدوس‬	‫برابدوس‬
+  Notes
+BY	BELARUS
+  Language	Short name	Formal name
+  National Official
+  be: Belarusian	Беларусь	Рэспубліка Беларусь
+  Bielaruś	Respublika Bielaruś
+  ru: Russian	Беларусь	Республика Беларусь
+  Belarus’	Respublika Belarus’
+  UN Official
+  English	Belarus	Republic of Belarus (the)
+  French	Bélarus (le)	République du Bélarus (la)
+  Spanish	Belarús	República de Belarús (la)
+  Russian	Беларусь	Республика Беларусь
+  Chinese	白俄罗斯	白俄罗斯共和国
+  Arabic	‫بيالروس‬	‫ُجهورية بيالروس‬
+  Notes
+BE	BELGIUM
+  Language	Short name	Formal name
+  National Official
+  de: German	Belgien	Königreich Belgien (das)
+  fr: French	Belgique (la)	Royaume de Belgique (le)
+  nl: Dutch	België	Koninkrijk België (het)
+  UN Official
+  English	Belgium	Kingdom of Belgium (the)
+  French	Belgique (la)	Royaume de Belgique (le)
+  Spanish	Bélgica	Reino de Bélgica (el)
+  Russian	Бельгия	Королевство Бельгия
+  Chinese	比利时	比利时王国
+  Arabic	‫بلجياك‬	‫مملكة بلجياك‬
+  Notes
+BZ	BELIZE
+  Language	Short name	Formal name
+  National Official
+  en: English	Belize	Belize
+  UN Official
+  English	Belize	Belize
+  French	Belize (le)	Belize (le)
+  Spanish	Belice	Belice
+  Russian	Белиз	Белиз
+  Chinese	伯利兹	伯利兹
+  Arabic	‫بلزي‬	‫بلزي‬
+  Notes
+BJ	BENIN
+  Language	Short name	Formal name
+  National Official
+  fr: French	Bénin (le)	République du Bénin (la)
+  UN Official
+  English	Benin	Republic of Benin (the)
+  French	Bénin (le)	République du Bénin (la)
+  Spanish	Benin	República de Benin (la)
+  Russian	Бенин	Республика Бенин
+  Chinese	贝宁	贝宁共和国
+  Arabic	‫بنن‬	‫ُجهورية بنن‬
+  Notes
+BT	BHUTAN
+  Language	Short name	Formal name
+  National Official
+  dz: Dzongkha
+  Druk Yul (1)	Druk Gyalkhap (1)
+  UN Official
+  English	Bhutan	Kingdom of Bhutan (the)
+  French	Bhoutan (le)	Royaume du Bhoutan (le)
+  Spanish	Bhután	Reino de Bhután (el)
+  Russian	Бутан	Королевство Бутан
+  Chinese	不丹	不丹王国
+  Arabic	‫بواتن‬	‫مملكة بواتن‬
+  Notes	(1) Traditional romanization, based on the pronunciation; the long form is not verified.
+  Local forms in the Bhutanese official romanization (1997): Drukyuel, Druk Gyekhap
+BO	BOLIVIA (PLURINATIONAL STATE OF)
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Bolivia	Estado Plurinacional de Bolivia (el)
+  ay: Aymará (1)	Wuliwya	Wuliwya Suyu
+  qu: Quechua (1)	Bulibya	Bulibya Achka nasyunkunap Mama Llaqta
+  UN Official
+  English	Bolivia (Plurinational State of)	Plurinational State of Bolivia (the)
+  French	Bolivie (État plurinational de)	État plurinational de Bolivia (l’)
+  Spanish	Bolivia (Estado Plurinacional de)	Estado Plurinacional de Bolivia (el)
+  Russian	Боливия (Многонациогнальное Государство)	Многонациональное Государство Боливия
+  Chinese	玻利维亚（多民族国）	玻利维亚多民族国
+  Arabic	)‫] إملتعددة إلقوميات‬...[ ‫بوليفيا (دوةل‬	‫دوةل بوليفيا إملتعددة إلقوميات‬
+  (1) Cf. UNTERM and Constitution 2009 in 3 languages.
+  Notes
+BA	BOSNIA AND HERZEGOVINA
+  Language	Short name	Formal name
+  National Official
+  bs: Bosnian	Bosna i Hercegovina	Bosna i Hercegovina
+  hr: Croatian	Bosna i Hercegovina	Bosna i Hercegovina
+  sr: Serbian	Босна и Херцеговина	Босна и Херцеговина
+  Bosna i Hercegovina	Bosna i Hercegovina
+  UN Official
+  English	Bosnia and Herzegovina	Bosnia and Herzegovina
+  French	Bosnie-Herzégovine (la)	Bosnie-Herzégovine (la)
+  Spanish	Bosnia y Herzegovina	Bosnia y Herzegovina
+  Russian	Босния и Герцеговина	Босния и Герцеговина
+  Chinese	波斯尼亚和黑塞哥维那	波斯尼亚和黑塞哥维那
+  Arabic	‫إلبوس نة وإلهرسك‬	‫إلبوس نة وإلهرسك‬
+  Notes
+BW	BOTSWANA
+  Language	Short name	Formal name
+  National Official
+  en: English	Botswana	Republic of Botswana (the)
+  UN Official
+  English	Botswana	Republic of Botswana (the)
+  French	Botswana (le)	République du Botswana (la)
+  Spanish	Botswana	República de Botswana (la)
+  Russian	Ботсвана	Республика Ботсвана
+  Chinese	博茨瓦纳	博茨瓦纳共和国
+  Arabic	‫بوتسوإان‬	‫ُجهورية بوتسوإان‬
+  Notes
+BR	BRAZIL
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Brasil (o)	República Federativa do Brasil (a)
+  UN Official
+  English	Brazil	Federative Republic of Brazil (the)
+  French	Brésil (le)	République fédérative du Brésil (la)
+  Spanish	Brasil (el)	República Federativa del Brasil (la)
+  Russian	Бразилия	Федеративная Республика Бразилия
+  Chinese	巴西	巴西联邦共和国
+  Arabic	‫إلربإزيل‬	‫إمجلهورية الاحتادية إلربإزيلية‬
+  Notes
+BN	BRUNEI DARUSSALAM
+  Language	Short name	Formal name
+  National Official
+  en: English	Brunei	Brunei Darussalam
+  ms: Malay	Brunei	Negara Brunei Darussalam
+  UN Official
+  English	Brunei Darussalam	Brunei Darussalam
+  French	Brunéi Darussalam (le)	Brunéi Darussalam (le)
+  Spanish	Brunei Darussalam	Brunei Darussalam
+  Russian	Бруней-Даруссалам	Бруней-Даруссалам
+  Chinese	文莱达鲁萨兰国	文莱达鲁萨兰国
+  Arabic	‫بروين دإر إلسالم‬	‫بروين دإر إلسالم‬
+  Notes
+BG	BULGARIA
+  Language	Short name	Formal name
+  National Official
+  bg: Bulgarian	България	Република България
+  Bulgaria	Republika Bulgaria
+  UN Official
+  English	Bulgaria	Republic of Bulgaria (the)
+  French	Bulgarie (la)	République de Bulgarie (la)
+  Spanish	Bulgaria	República de Bulgaria (la)
+  Russian	Болгария	Республика Болгария
+  Chinese	保加利亚	保加利亚共和国
+  Arabic	‫بلغاراي‬	‫ُجهورية بلغاراي‬
+  Notes
+BF	BURKINA FASO
+  Language	Short name	Formal name
+  National Official
+  fr: French	Burkina (le)	Burkina Faso (le)
+  UN Official
+  English	Burkina Faso	Burkina Faso
+  French	Burkina Faso (le)	Burkina Faso (le)
+  Spanish	Burkina Faso	Burkina Faso
+  Russian	Буркина-Фасо	Буркина-Фасо
+  Chinese	布基纳法索	布基纳法索
+  Arabic	‫بوركينا فاسو‬	‫بوركينا فاسو‬
+  Notes
+BI	BURUNDI
+  Language	Short name	Formal name
+  National Official
+  fr: French	Burundi (le)	République du Burundi (la)
+  rn: Kirundi	Burundi	Republika y’Uburundi
+  UN Official
+  English	Burundi	Republic of Burundi (the)
+  French	Burundi (le)	République du Burundi (la)
+  Spanish	Burundi	República de Burundi (la)
+  Russian	Бурунди	Республика Бурунди
+  Chinese	布隆迪	布隆迪共和国
+  Arabic	‫بوروندي‬	‫ُجهورية بوروندي‬
+  Notes
+CV	CABO VERDE
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Cabo Verde	República de Cabo Verde (a)
+  UN Official
+  English	Cabo Verde	Republic of Cabo Verde (the)
+  French	Cabo Verde (sans article)	République de Cabo Verde (la)
+  Spanish	Cabo Verde	República de Cabo Verde (la)
+  Russian	Кабо-Верде	Республика Кабо-Верде
+  Chinese	佛得角	佛得角共和国
+  Arabic
+  Notes	UNTERM updates 2014
+KH	CAMBODIA
+  Language	Short name	Formal name
+  National Official
+  km: Khmer
+  Kâmpŭchéa	Preăhréachéanachâkr Kâmpŭchéa
+  UN Official
+  English	Cambodia	Kingdom of Cambodia (the)
+  French	Cambodge (le)	Royaume du Cambodge (le)
+  Spanish	Camboya	Reino de Camboya (el)
+  Russian	Камбоджа	Королевство Камбоджа
+  Chinese	柬埔寨	柬埔寨王国
+  Arabic	‫مكبوداي‬	‫مملكة مكبوداي‬
+  Notes
+CM	CAMEROON
+  Language	Short name	Formal name
+  National Official
+  en: English	Cameroon	Republic of Cameroon (the)
+  fr: French	Cameroun (le)	République du Cameroun (la)
+  UN Official
+  English	Cameroon	Republic of Cameroon (the)
+  French	Cameroun (le)	République du Cameroun (la)
+  Spanish	Camerún (el)	República del Camerún (la)
+  Russian	Камерун	Республика Камерун
+  Chinese	喀麦隆	喀麦隆共和国
+  Arabic	‫إلاكمريون‬	‫ُجهورية إلاكمريون‬
+  Notes
+CA	CANADA
+  Language	Short name	Formal name
+  National Official
+  en: English	Canada	Canada
+  fr: French	Canada (le)	Canada (le)
+  UN Official
+  English	Canada	Canada
+  French	Canada (le)	Canada (le)
+  Spanish	Canadá (el)	Canadá (el)
+  Russian	Канада	Канада
+  Chinese	加拿大	加拿大
+  Arabic	‫كندإ‬	‫كندإ‬
+  Notes
+CF	CENTRAL AFRICAN REPUBLIC
+  Language	Short name	Formal name
+  National Official
+  fr: French	République centrafricaine (la)	République centrafricaine (la)
+  sg: Sango	Ködörösêse tî Bêafrîka	Ködörösêse tî Bêafrîka
+  UN Official
+  English	Central African Republic (the)	Central African Republic (the)
+  French	République centrafricaine (la)	République centrafricaine (la)
+  Spanish	República Centroafricana (la)	República Centroafricana (la)
+  Russian	Центральноафриканская Республика	Центральноафриканская Республика
+  Chinese	中非共和国	中非共和国
+  Arabic	‫ُجهورية أفريقيا إلوسطى‬	‫ُجهورية أفريقيا إلوسطى‬
+  Notes
+TD	CHAD
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫تْشَ اد‬	‫م ُْجه ِموريَّة تْشَ اد‬
+  Tshād	Jumhūriyyat Tshād
+  fr: French	Tchad (le)	République du Tchad (la)
+  UN Official
+  English	Chad	Republic of Chad (the)
+  French	Tchad (le)	République du Tchad (la)
+  Spanish	Chad (el)	República del Chad (la)
+  Russian	Чад	Республика Чад
+  Chinese	乍得	乍得共和国
+  Arabic	‫تشاد‬	‫ُجهورية تشاد‬
+  Notes
+CL	CHILE
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Chile	República de Chile (la)
+  UN Official
+  English	Chile	Republic of Chile (the)
+  French	Chili (le)	République du Chili (la)
+  Spanish	Chile	República de Chile (la)
+  Russian	Чили	Республика Чили
+  Chinese	智利	智利共和国
+  Arabic	‫ش ييل‬	‫ُجهورية ش ييل‬
+  Notes
+CN	CHINA
+  Language	Short name	Formal name
+  National Official
+  zh: Chinese	中国	中华人民共和国
+  Zhongguo	Zhonghua Renmin Gongheguo
+  UN Official
+  English	China	People’s Republic of China (the)
+  French	Chine (la)	République populaire de Chine (la)
+  Spanish	China	República Popular China (la)
+  Russian	Китай	Китайская Народная Республика
+  Chinese	中国	中华人民共和国
+  Arabic	‫إلصني‬	‫ُجهورية إلصني إلشعبية‬
+  Notes
+CO	COLOMBIA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Colombia	República de Colombia (la)
+  UN Official
+  English	Colombia	Republic of Colombia (the)
+  French	Colombie (la)	République de Colombie (la)
+  Spanish	Colombia	República de Colombia (la)
+  Russian	Колумбия	Республика Колумбия
+  Chinese	哥伦比亚	哥伦比亚共和国
+  Arabic	‫كولومبيا‬	‫ُجهورية كولومبيا‬
+  Notes
+KM	COMOROS
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫إلقمر‬
+  Al Qamar	Al Ittiḩād al Qumuriyy (1)
+  fr: French	Comores (les) (fém.)	Union des Comores (l’)
+  Shikomor	Komori	Udzima wa Komori
+  UN Official
+  English	Comoros (the)	Union of the Comoros (the)
+  French	Comores (les) (fém.)	Union des Comores (l’)
+  Spanish	Comoras (las)	Unión de las Comoras (la)
+  Russian	Коморские Острова	Союз Коморских Островов
+  Chinese	科摩罗	科摩罗联盟
+  Arabic	‫جزر إلقمر‬
+  (1)	Cf. article Ier du Titre Ier de la version consolidée en 2009 de la Constitution du 23 décembre
+  Notes	2001.
+CG	CONGO
+  Language	Short name	Formal name
+  National Official
+  fr: French	Congo (le)	République du Congo (la)
+  UN Official
+  English	Congo (the)	Republic of the Congo (the)
+  French	Congo (le)	République du Congo (la)
+  Spanish	Congo (el)	República del Congo (la)
+  Russian	Конго	Республика Конго
+  Chinese	刚果	刚果共和国
+  Arabic	‫إلكونغو‬	‫ُجهورية إلكونغو‬
+  Notes
+CD	CONGO, DEMOCRATIC REPUBLIC OF THE
+  Language	Short name	Formal name
+  National Official
+  fr: French	République démocratique du Congo (la)	République démocratique du Congo (la)
+  UN Official
+  English	Democratic Republic of the Congo (the)	Democratic Republic of the Congo (the)
+  French	République démocratique du Congo (la)	République démocratique du Congo (la)
+  Spanish	República Democrática del Congo (la)	República Democrática del Congo (la)
+  Russian	Демократическая Республика Конго	Демократическая Республика Конго
+  Chinese	刚果民主共和国	刚果民主共和国
+  Arabic	‫ُجهورية إلكونغو إلميقرإطية‬	‫ُجهورية إلكونغو إلميقرإطية‬
+  Notes
+CR	COSTA RICA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Costa Rica	República de Costa Rica (la)
+  UN Official
+  English	Costa Rica	Republic of Costa Rica (the)
+  French	Costa Rica (le)	République du Costa Rica (la)
+  Spanish	Costa Rica	República de Costa Rica (la)
+  Russian	Коста-Рика	Республика Коста-Рика
+  Chinese	哥斯达黎加	哥斯达黎加共和国
+  Arabic	‫كوس تارياك‬	‫ُجهورية كوس تارياك‬
+  Notes
+CI	CÔTE D’IVOIRE
+  Language	Short name	Formal name
+  National Official
+  fr: French	Côte d’Ivoire (la)	République de Côte d’Ivoire (la)
+  UN Official
+  English	Côte d’Ivoire	Republic of Côte d’Ivoire (the)
+  French	Côte d’Ivoire (la)	République de Côte d’Ivoire (la)
+  Spanish	Côte d’Ivoire	República de Côte d’Ivoire (la)
+  Russian	Кот-д'Ивуар	Республика Кот-д’Ивуар
+  Chinese	科特迪瓦	科特迪瓦共和国
+  Arabic	‫كوت ديفوإر‬	‫ُجهورية كوت ديفوإر‬
+  Notes
+HR	CROATIA
+  Language	Short name	Formal name
+  National Official
+  hr: Croatian	Hrvatska	Republika Hrvatska
+  UN Official
+  English	Croatia	Republic of Croatia (the)
+  French	Croatie (la)	République de Croatie (la)
+  Spanish	Croacia	República de Croacia (la)
+  Russian	Хорватия	Республика Хорватия
+  Chinese	克罗地亚	克罗地亚共和国
+  Arabic	‫كروإتيا‬	‫ُجهورية كروإتيا‬
+  Notes
+CU	CUBA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Cuba	República de Cuba (la)
+  UN Official
+  English	Cuba	Republic of Cuba (the)
+  French	Cuba (fém.)	République de Cuba (la)
+  Spanish	Cuba	República de Cuba (la)
+  Russian	Куба	Республика Куба
+  Chinese	古巴	古巴共和国
+  Arabic	‫كواب‬	‫ُجهورية كواب‬
+  Notes
+CY	CYPRUS
+  Language	Short name	Formal name
+  National Official
+  el: Greek	Κύπρος	Κυπριακή Δημοκρατία
+  Kýpros	Kypriakí Dimokratía
+  tr: Turkish	Kıbrıs	Kıbrıs Cumhuriyeti
+  UN Official
+  English	Cyprus	Republic of Cyprus (the)
+  French	Chypre (fém.)	République de Chypre (la)
+  Spanish	Chipre	República de Chipre (la)
+  Russian	Кипр	Республика Кипр
+  Chinese	塞浦路斯	塞浦路斯共和国
+  Arabic	‫قربص‬	‫ُجهورية قربص‬
+  Notes
+CZ	CZECHIA
+  Language	Short name	Formal name
+  National Official
+  cs: Czech	Česko	Česká republika
+  UN Official
+  English	Czechia	Czech Republic (the)
+  French	Tchéquie (la)	République tchèque (la)
+  Spanish	Chequia	República Checa (la)
+  Russian	Чеxия	Чешская Республика
+  Chinese	捷克	捷克共和国
+  Arabic	‫إمجلهورية إلتش يكية‬
+  Notes
+DK	DENMARK
+  Language	Short name	Formal name
+  National Official
+  da: Danish	Danmark	Kongeriget Danmark
+  UN Official
+  English	Denmark	Kingdom of Denmark (the)
+  French	Danemark (le)	Royaume du Danemark (le)
+  Spanish	Dinamarca	Reino de Dinamarca (el)
+  Russian	Дания	Королевство Дания
+  Chinese	丹麦	丹麦王国
+  Arabic	‫إلإمنرك‬	‫مملكة إلإمنرك‬
+  Notes
+DJ	DJIBOUTI
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫جِ ي مب ِوت‬	‫م ُْجه ِموريَّة جِ ي مب ِوت‬
+  Jībūtī	Jumhūriyyat Jībūtī
+  fr: French	Djibouti (masc.)	République de Djibouti (la)
+  UN Official
+  English	Djibouti	Republic of Djibouti (the)
+  French	Djibouti (masc.)	République de Djibouti (la)
+  Spanish	Djibouti	República de Djibouti (la)
+  Russian	Джибути	Республика Джибути
+  Chinese	吉布提	吉布提共和国
+  Arabic	‫جيبوت‬	‫ُجهورية جيبوت‬
+  Notes
+DM	DOMINICA
+  Language	Short name	Formal name
+  National Official
+  en: English	Dominica	Commonwealth of Dominica (the)
+  UN Official
+  English	Dominica	Commonwealth of Dominica (the)
+  French	Dominique (la)	Commonwealth de Dominique (le)
+  Spanish	Dominica	Commonwealth de Dominica (el)
+  Russian	Доминика	Содружество Доминики
+  Chinese	多米尼克	多米尼克国
+  Arabic	‫دومينياك‬	‫مكنولث دومينياك‬
+  Notes
+DO	DOMINICAN REPUBLIC
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	República Dominicana (la)	República Dominicana (la)
+  UN Official
+  English	Dominican Republic (the)	Dominican Republic (the)
+  French	République dominicaine (la)	République dominicaine (la)
+  Spanish	República Dominicana (la)	República Dominicana (la)
+  Russian	Доминиканская Республика	Доминиканская Республика
+  Chinese	多米尼加	多米尼加共和国
+  Arabic	‫إمجلهورية إلومينيكية‬	‫إمجلهورية إلومينيكية‬
+  Notes
+EC	ECUADOR
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Ecuador (el)	República del Ecuador (la)
+  UN Official
+  English	Ecuador	Republic of Ecuador (the)
+  French	Équateur (l’) (masc.)	République de l’Équateur (la)
+  Spanish	Ecuador (el)	República del Ecuador (la)
+  Russian	Эквадор	Республика Эквадор
+  Chinese	厄瓜多尔	厄瓜多尔共和国
+  Arabic	‫إإكوإدور‬	‫ُجهورية إإكوإدور‬
+  Notes
+EG	EGYPT
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫ِم ْص‬	‫م ُْجه ِموريَّة ِم ْص َإلْ َع َ ِربيَّة‬
+  Mişr	Jumhūriyyat Mişr al ‘Arabiyyah
+  UN Official
+  English	Egypt	Arab Republic of Egypt (the)
+  French	Égypte (l’) (fém.)	République arabe d’Égypte (la)
+  Spanish	Egipto	República Árabe de Egipto (la)
+  Russian	Египет	Арабская Республика Египет
+  Chinese	埃及	阿拉伯埃及共和国
+  Arabic	‫مص‬	‫ُجهورية مص إلعربية‬
+  Notes
+SV	EL SALVADOR
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	El Salvador	República de El Salvador (la)
+  UN Official
+  English	El Salvador	Republic of El Salvador (the)
+  French	El Salvador (masc.)	République d’El Salvador (la)
+  Spanish	El Salvador	República de El Salvador (la)
+  Russian	Сальвадор	Республика Эль-Сальвадор
+  Chinese	萨尔瓦多	萨尔瓦多共和国
+  Arabic	‫إلسلفادور‬	‫ُجهورية إلسلفادور‬
+  Notes
+GQ	EQUATORIAL GUINEA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Guinea Ecuatorial	República de Guinea Ecuatorial (la)
+  fr: French	Guinée équatoriale	République de Guinée équatoriale (la)
+  UN Official
+  English	Equatorial Guinea	Republic of Equatorial Guinea (the)
+  French	Guinée équatoriale (la)	République de Guinée équatoriale (la)
+  Spanish	Guinea Ecuatorial (la)	República de Guinea Ecuatorial (la)
+  Russian	Экваториальная Гвинея	Республика Экваториальная Гвинея
+  Chinese	赤道几内亚	赤道几内亚共和国
+  Arabic	‫غينيا الاس توإئية‬	‫ُجهورية غينيا الاس توإئية‬
+  Notes
+ER	ERITREA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫إ ِرتْ ِر َاي‬	‫د َْو َةل إ ِرتْ ِر َاي‬
+  
+  Iritriyā	Dawlat Iritriyā
+  en: English	Eritrea	State of Eritrea (the)
+  ti: Tigrinya
+  Iertra (1)	Hagere Iertra (1)
+  UN Official
+  English	Eritrea	State of Eritrea (the)
+  French	Érythrée (l’) (fém.)	État d'Érythrée (l')
+  Spanish	Eritrea	Estado de Eritrea (el)
+  Russian	Эритрея	Государство Эритрея
+  Chinese	厄立特里亚	厄立特里亚国
+  Arabic	‫إريرتاي‬	‫دوةل إريرتاي‬
+  Notes	(1) Romanization in the BGN/PCGN 2007 Tigrinya system
+EE	ESTONIA
+  Language	Short name	Formal name
+  National Official
+  et: Estonian	Eesti	Eesti Vabariik
+  UN Official
+  English	Estonia	Republic of Estonia (the)
+  French	Estonie (l’) (fém.)	République d’Estonie (la)
+  Spanish	Estonia	República de Estonia (la)
+  Russian	Эстония	Эстонская Республика
+  Chinese	爱沙尼亚	爱沙尼亚共和国
+  Arabic	‫إإس تونيا‬	‫ُجهورية إإس تونيا‬
+  Notes
+ET	ETHIOPIA
+  Language	Short name	Formal name
+  National Official
+  am: Amharic
+  Ītyop'iya	Ye̱Ītyop'iya Fe̱de̱ralawi Dimokrasiyawi Ripe̱blik
+  UN Official
+  English	Ethiopia	Federal Democratic Republic of Ethiopia (the)
+  French	Éthiopie (l’) (fém.)	République fédérale démocratique
+  d’Ethiopie (la)
+  Spanish	Etiopía	República Democrática Federal de Etiopía (la)
+  Russian	Эфиопия	Федеративная Демократическая Республика
+  Эфиопия
+  Chinese	埃塞俄比亚	埃塞俄比亚联邦民主共和国
+  Arabic	‫إإثيوبيا‬	‫ُجهورية إإثيوبيا إلميقرإطية الاحتادية‬
+  Notes
+FJ	FIJI
+  Language	Short name	Formal name
+  National Official
+  en: English	Fiji	Republic of Fiji (the)
+  fj: Fijian	Viti	Matanitu ko Viti
+  UN Official
+  English	Fiji	Republic of Fiji (the)
+  French	Fidji (les) (fém.)	République des Fidji (la)
+  Spanish	Fiji	República de Fiji (la)
+  Russian	Фиджи	Республика Фиджи
+  Chinese	斐济	斐济共和国
+  Arabic	‫فيجي‬	‫ُجهورية فيجي‬
+  Notes
+FI	FINLAND
+  Language	Short name	Formal name
+  National Official
+  fi: Finnish	Suomi	Suomen tasavalta
+  sv: Swedish	Finland	Republiken Finland
+  UN Official
+  English	Finland	Republic of Finland (the)
+  French	Finlande (la)	République de Finlande (la)
+  Spanish	Finlandia	República de Finlandia (la)
+  Russian	Финляндия	Финляндская Республика
+  Chinese	芬兰	芬兰共和国
+  Arabic	‫فنلندإ‬	‫ُجهورية فنلندإ‬
+  Notes
+FR	FRANCE
+  Language	Short name	Formal name
+  National Official
+  fr: French	France (la)	République française (la)
+  UN Official
+  English	France	French Republic (the)
+  French	France (la)	République française (la)
+  Spanish	Francia	República Francesa (la)
+  Russian	Франция	Французская Республика
+  Chinese	法国	法兰西共和国
+  Arabic	‫فرنسا‬	‫إمجلهورية إلفرنس ية‬
+  Notes
+GA	GABON
+  Language	Short name	Formal name
+  National Official
+  fr: French	Gabon (le)	République gabonaise (la)
+  UN Official
+  English	Gabon	Gabonese Republic (the)
+  French	Gabon (le)	République gabonaise (la)
+  Spanish	Gabón (el)	República Gabonesa (la)
+  Russian	Габон	Габонская Республика
+  Chinese	加蓬	加蓬共和国
+  Arabic	‫غابون‬	‫إمجلهورية إلغابونية‬
+  Notes
+GM	GAMBIA
+  Language	Short name	Formal name
+  National Official
+  en: English	The Gambia	Republic of The Gambia
+  UN Official
+  English	Gambia (the)	Republic of the Gambia (the)
+  French	Gambie (la)	République de Gambie (la)
+  Spanish	Gambia	República de Gambia (la)
+  Russian	Гамбия	Республика Гамбия
+  Chinese	冈比亚	冈比亚共和国
+  Arabic	‫غامبيا‬	‫ُجهورية غامبيا‬
+  Notes
+GE	GEORGIA
+  Language	Short name	Formal name
+  National Official
+  ka: Georgian	საქართველო	საქართველო
+  Sakartvelo (1)	Sakartvelo (1)
+  UN Official
+  English	Georgia	Georgia
+  French	Géorgie (la)	Géorgie (la)
+  Spanish	Georgia	Georgia
+  Russian	Грузия	Грузия
+  Chinese	格鲁吉亚	格鲁吉亚
+  Arabic	‫جورجيا‬	‫جورجيا‬
+  Notes	(1) Romanization in the Georgian National System 2011
+DE	GERMANY
+  Language	Short name	Formal name
+  National Official
+  de: German	Deutschland	Bundesrepublik Deutschland (die)
+  UN Official
+  English	Germany	Federal Republic of Germany (the)
+  French	Allemagne (l’) (fém.)	République fédérale d’Allemagne (la)
+  Spanish	Alemania	República Federal de Alemania (la)
+  Russian	Германия	Федеративая Республика Германия
+  Chinese	德国	德意志联邦共和国
+  Arabic	‫أملانيا‬	‫ُجهورية أملانيا الاحتادية‬
+  Notes
+GH	GHANA
+  Language	Short name	Formal name
+  National Official
+  en: English	Ghana	Republic of Ghana (the)
+  UN Official
+  English	Ghana	Republic of Ghana (the)
+  French	Ghana (le)	République du Ghana (la)
+  Spanish	Ghana	República de Ghana (la)
+  Russian	Гана	Республика Гана
+  Chinese	加纳	加纳共和国
+  Arabic	‫غاان‬	‫ُجهورية غاان‬
+  Notes
+GR	GREECE
+  Language	Short name	Formal name
+  National Official
+  el: Greek	Ελλάς	Ελληνική Δημοκρατία
+  Ellás	Ellinikí Dimokratía
+  UN Official
+  English	Greece	Hellenic Republic (the)
+  French	Grèce (la)	République hellénique (la)
+  Spanish	Grecia	República Helénica (la)
+  Russian	Греция	Греческая Республика
+  Chinese	希腊	希腊共和国
+  Arabic	‫إليوانن‬	‫إمجلهورية إلهيلينية‬
+  Notes	In Dimotiki, there is another form of the nominative case: Ελλάδα (Elláda)
+GD	GRENADA
+  Language	Short name	Formal name
+  National Official
+  en: English	Grenada	Grenada
+  UN Official
+  English	Grenada	Grenada
+  French	Grenade (la)	Grenade (la)
+  Spanish	Granada	Granada
+  Russian	Гренада	Гренада
+  Chinese	格林纳达	格林纳达
+  Arabic	‫غرينادإ‬	‫غرينادإ‬
+  Notes
+GT	GUATEMALA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Guatemala	República de Guatemala (la)
+  UN Official
+  English	Guatemala	Republic of Guatemala (the)
+  French	Guatemala (le)	République du Guatemala (la)
+  Spanish	Guatemala	República de Guatemala (la)
+  Russian	Гватемала	Республика Гватемала
+  Chinese	危地马拉	危地马拉共和国
+  Arabic	‫غوإتاميل‬	‫ُجهورية غوإتاميل‬
+  Notes
+GN	GUINEA
+  Language	Short name	Formal name
+  National Official
+  fr: French	Guinée (la)	République de Guinée (la)
+  UN Official
+  English	Guinea	Republic of Guinea (the)
+  French	Guinée (la)	République de Guinée (la)
+  Spanish	Guinea	República de Guinea (la)
+  Russian	Гвинея	Гвинейская Республика
+  Chinese	几内亚	几内亚共和国
+  Arabic	‫غينيا‬	‫ُجهورية غينيا‬
+  Notes
+GW	GUINEA-BISSAU
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Guiné-Bissau	República da Guiné-Bissau (a)
+  UN Official
+  English	Guinea-Bissau	Republic of Guinea-Bissau (the)
+  French	Guinée-Bissau (la)	République de Guinée-Bissau (la)
+  Spanish	Guinea-Bissau	República de Guinea-Bissau (la)
+  Russian	Гвинея-Бисау	Республика Гвинея-Бисау
+  Chinese	几内亚比绍	几内亚比绍共和国
+  Arabic	‫ بيساو‬- ‫غينيا‬	‫ بيساو‬- ‫ُجهورية غينيا‬
+  Notes
+GY	GUYANA
+  Language	Short name	Formal name
+  National Official
+  en: English	Guyana	Co-operative Republic of Guyana (the)
+  UN Official
+  English	Guyana	Republic of Guyana (the)
+  French	Guyana (le)	République du Guyana (la)
+  Spanish	Guyana	República de Guyana (la)
+  Russian	Гайана	Республика Гайана
+  Chinese	圭亚那	圭亚那共和国
+  Arabic	‫غياان‬	‫ُجهورية غياان‬
+  Notes
+HT	HAITI
+  Language	Short name	Formal name
+  National Official
+  fr: French	Haïti (masc.)	République d’Haïti (la)
+  ht: Haitian Creole	Ayiti	Repiblik d’Ayiti
+  UN Official
+  English	Haiti	Republic of Haiti (the)
+  French	Haïti (masc.)	République d’Haïti (la)
+  Spanish	Haití	República de Haití (la)
+  Russian	Гаити	Республика Гаити
+  Chinese	海地	海地共和国
+  Arabic	‫هاييت‬	‫ُجهورية هاييت‬
+  Notes
+VA	HOLY SEE
+  Language	Short name	Formal name
+  National Official
+  it: Italian	Santa Sede (la)	Santa Sede (la)
+  UN Official
+  English	Holy See (the)	Holy See (the) (1)
+  French	Saint-Siège (le)	Saint-Siège (le) (1)
+  Spanish	Santa Sede (la)	Santa Sede (la) (1)
+  Russian	Святой Престол	Святой Престол
+  Chinese	教廷	教廷
+  Arabic	‫إلكريس إلرسويل‬	‫إلكريس إلرسويل‬
+  (1) In United Nations documents, the term Vatican City State is used only
+  Notes
+  in texts concerning the International Telecommunication Union and the Universal Postal Union
+HN	HONDURAS
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Honduras	República de Honduras (la)
+  UN Official
+  English	Honduras	Republic of Honduras (the)
+  French	Honduras (le)	République du Honduras (la)
+  Spanish	Honduras	República de Honduras (la)
+  Russian	Гондурас	Республика Гондурас
+  Chinese	洪都拉斯	洪都拉斯共和国
+  Arabic	‫هندورإس‬	‫ُجهورية هندورإس‬
+  Notes
+HU	HUNGARY
+  Language	Short name	Formal name
+  National Official
+  hu: Hungarian	Magyarország	Magyarország
+  UN Official
+  English	Hungary	Hungary
+  French	Hongrie (la)	Hongrie (la)
+  Spanish	Hungría	Hungría
+  Russian	Венгрия	Венгрия
+  Chinese	匈牙利	匈牙利
+  Arabic	‫هنغاراي‬	‫هنغاراي‬
+  Notes
+IS	ICELAND
+  Language	Short name	Formal name
+  National Official
+  is: Icelandic	Ísland	Lýðveldið Ísland (1)
+  UN Official
+  English	Iceland	Republic of Iceland (the)
+  French	Islande (l’) (fém.)	République d’Islande (la)
+  Spanish	Islandia	República de Islandia (la)
+  Russian	Исландия	Республика Исландия
+  Chinese	冰岛	冰岛共和国
+  Arabic	‫أيسلندإ‬	‫ُجهورية أيسلندإ‬
+  Notes	(1) The character ð is sometimes substituted by dh in international publications
+IN	INDIA
+  Language	Short name	Formal name
+  National Official
+  en: English	India	Republic of India (the)
+  hi: Hindi	भारत	भारत गणराज्य
+  Bhārat	Bhārat Gaṇarājya
+  UN Official
+  English	India	Republic of India (the)
+  French	Inde (l’) (fém.)	République de l’Inde (la)
+  Spanish	India (la)	República de la India (la)
+  Russian	Индия	Республика Индия
+  Chinese	印度	印度共和国
+  Arabic	‫إلهند‬	‫ُجهورية إلهند‬
+  Notes
+ID	INDONESIA
+  Language	Short name	Formal name
+  National Official
+  id: Indonesian	Indonesia	Republik Indonesia
+  UN Official
+  English	Indonesia	Republic of Indonesia (the)
+  French	Indonésie (l’) (fém.)	République d’Indonésie (la)
+  Spanish	Indonesia	República de Indonesia (la)
+  Russian	Индонезия	Республика Индонезия
+  Chinese	印度尼西亚	印度尼西亚共和国
+  Arabic	‫إإندونيس يا‬	‫ُجهورية إإندونيس يا‬
+  Notes
+IR	IRAN (ISLAMIC REPUBLIC OF)
+  Language	Short name	Formal name
+  National Official
+  fa: Persian	‫إ َيرإن‬	‫م ُْجه ِمورئ إ ْسال ِمئ إ َيرإن‬
+  
+  Irān	Jomhuri-ye Eslāmi-ye Irān
+  UN Official
+  English	Iran (Islamic Republic of)	Islamic Republic of Iran (the)
+  French	Iran (République islamique d’)	République islamique d’Iran (la)
+  Spanish	Irán (República Islámica del)	República Islámica del Irán (la)
+  Russian	Иран (Исламская Республика)	Исламская Республика Иран
+  Chinese	伊朗（伊斯兰共和国）	伊朗伊斯兰共和国
+  Arabic	(‫] إلإسالمية‬...[ ‫إإيرإن (ُجهورية‬	‫ُجهورية إإيرإن إلإسالمية‬
+  Notes
+IQ	IRAQ
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ ِع َرإق‬	‫م ُْجه ِموريَّة َإلْ ِع َرإق‬
+  Al ‘Irāq	Jumhūriyyat al ‘Irāq
+  ku: Kurdish (1)
+  ‘Êraq	Komarî ‘Êraq
+  UN Official
+  English	Iraq	Republic of Iraq (the)
+  French	Iraq (l’) (masc.)	République d’Iraq (la)
+  Spanish	Iraq (el)	República del Iraq (la)
+  Russian	Ирак	Республика Ирак
+  Chinese	伊拉克	伊拉克共和国
+  Arabic	‫إلعرإق‬	‫ُجهورية إلعرإق‬
+  Notes	(1) UNTERM and articles 4 and 11 of the Constitution (15 October 2005).
+IE	IRELAND
+  Language	Short name	Formal name
+  National Official
+  en: English	Ireland	Ireland
+  ga: Irish	Éire	Éire
+  UN Official
+  English	Ireland	Ireland
+  French	Irlande (l’) (fém.)	Irlande (l’) (fém.)
+  Spanish	Irlanda	Irlanda
+  Russian	Ирландия	Ирландия
+  Chinese	爱尔兰	爱尔兰
+  Arabic	‫أيرلندإ‬	‫أيرلندإ‬
+  Notes
+IL	ISRAEL
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫ْسإئِيل‬ ‫إ‬	 َ ْ ‫د َْو َةل إ‬ ‫ْسإئِيل‬
+  
+  Isrā’īl	Dawlat Isrā’īl
+  he: Hebrew	‫יִשְׂ ָראֵל‬	‫מְׂדִ ינַת יִשְׂ ָראֵל‬
+  Yisra’el	Medinat Yisra’el
+  UN Official
+  English	Israel	State of Israel (the)
+  French	Israël (masc.)	État d’Israël (l’)
+  Spanish	Israel	Estado de Israel (el)
+  Russian	Израиль	Государство Израиль
+  Chinese	以色列	以色列国
+  Arabic	‫إْسإئيل‬	‫دوةل إْسإئيل‬
+  Notes
+IT	ITALY
+  Language	Short name	Formal name
+  National Official
+  it: Italian	Italia (l’)	Repubblica Italiana (la)
+  UN Official
+  English	Italy	Republic of Italy (the)
+  French	Italie (l’) (fém.)	République italienne (la)
+  Spanish	Italia	República Italiana (la)
+  Russian	Италия	Итальянская Республика
+  Chinese	意大利	意大利共和国
+  Arabic	‫إإيطاليا‬	‫ُجهورية إإيطاليا‬
+  Notes
+JM	JAMAICA
+  Language	Short name	Formal name
+  National Official
+  en: English	Jamaica	Jamaica
+  UN Official
+  English	Jamaica	Jamaica
+  French	Jamaïque (la)	Jamaïque (la)
+  Spanish	Jamaica	Jamaica
+  Russian	Ямайка	Ямайка
+  Chinese	牙买加	牙买加
+  Arabic	‫جاماياك‬	‫جاماياك‬
+  Notes
+JP	JAPAN
+  Language	Short name	Formal name
+  National Official
+  ja: Japanese	日本	日本国
+  Nihon, or Nippon (1)	Nihon-koku, or Nippon-koku (1)
+  UN Official
+  English	Japan	Japan
+  French	Japon (le)	Japon (le)
+  Spanish	Japón (el)	Japón (el)
+  Russian	Япония	Япония
+  Chinese	日本	日本国
+  Arabic	‫إلياابن‬	‫إلياابن‬
+  Notes	(1) Both forms are valid, and derive from different pronunciations of a Sino-Japanese character
+JO	JORDAN
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫إَ أل ْردمن‬	 ِ ِ ‫َإلْ َم ْملَ َكة إَ أل ْر مد ِنيَّة إَلْه‬
+  ‫َاِشيَّة‬
+  Al Urdun	Al Mamlakah al Urduniyyah al Hāshimiyyah
+  UN Official
+  English	Jordan	Hashemite Kingdom of Jordan (the)
+  French	Jordanie (la)	Royaume hachémite de Jordanie (le)
+  Spanish	Jordania	Reino Hachemita de Jordania (el)
+  Russian	Иордания	Иорданское Хашимитское Королевство
+  Chinese	约旦	约旦哈希姆王国
+  Arabic	‫إلردن‬	‫إململكة إلردنية إلهاِشية‬
+  Notes
+KZ	KAZAKHSTAN
+  Language	Short name	Formal name
+  National Official
+  kk: Kazakh	Қазақстан	Қазақстан Республикасы
+  Qazaqstan (1)	Qazaqstan Respūblīkasy (1)
+  ru: Russian	Казахстан	Республика Казахстан
+  Kazahstan	Respublika Kazahstan
+  UN Official
+  English	Kazakhstan	Republic of Kazakhstan (the)
+  French	Kazakhstan (le)	République du Kazakhstan (la)
+  Spanish	Kazajstán	República de Kazajstán (la)
+  Russian	Казахстан	Республика Казахстан
+  Chinese	哈萨克斯坦	哈萨克斯坦共和国
+  Arabic	‫اكزإخس تان‬	‫ُجهورية اكزإخس تان‬
+  Notes	(1) Romanization in the BGN/PCGN 1979 system
+KE	KENYA
+  Language	Short name	Formal name
+  National Official
+  en: English	Kenya	Republic of Kenya (the)
+  sw: Swahili	Kenya	Jamhuri ya Kenya
+  UN Official
+  English	Kenya	Republic of Kenya (the)
+  French	Kenya (le)	République du Kenya (la)
+  Spanish	Kenya	República de Kenya (la)
+  Russian	Кения	Республика Кения
+  Chinese	肯尼亚	肯尼亚共和国
+  Arabic	‫كينيا‬	‫ُجهورية كينيا‬
+  Notes
+KI	KIRIBATI
+  Language	Short name	Formal name
+  National Official
+  en: English	Kiribati	Republic of Kiribati (the)
+  Gilbertese	Kiribati	Ribaberiki Kiribati
+  UN Official
+  English	Kiribati	Republic of Kiribati (the)
+  French	Kiribati (fém.)	République de Kiribati (la)
+  Spanish	Kiribati	República de Kiribati (la)
+  Russian	Кирибати	Республика Кирибати
+  Chinese	基里巴斯	基里巴斯共和国
+  Arabic	‫كرييبات‬	‫ُجهورية كرييباس‬
+  Notes
+KP	KOREA, DEMOCRATIC PEOPLE’S REPUBLIC OF
+  Language	Short name	Formal name
+  National Official
+  ko: Korean	조선	조선 민주주의 인민 공화국
+  Chosŏn (1)	Chosŏn-minjujuŭi-inmin-konghwaguk (1)
+  UN Official
+  English	Democratic People’s Republic of Korea (the)	Democratic People’s Republic of Korea (the)
+  French	République populaire démocratique	République populaire démocratique
+  de Corée (la)	de Corée (la)
+  Spanish	República Popular Democrática de Corea (la)	República Popular Democrática de Corea (la)
+  Russian	Корейская Народно-Демократическая	Корейская Народно-Демократическая
+  Республика	Республика
+  Chinese	朝鲜民主主义人民共和国	朝鲜民主主义人民共和国
+  Arabic	‫ُجهورية كوراي إلشعبية إلميقرإطية‬	‫ُجهورية كوراي إلشعبية إلميقرإطية‬
+  Notes	(1) Romanization in the McCune-Reischauer System (1939)
+KR	KOREA, REPUBLIC OF
+  Language	Short name	Formal name
+  National Official
+  ko: Korean	한국	대한 민국
+  Han’guk (1)	Taehan Min’guk (1)
+  UN Official
+  English	Republic of Korea (the)	Republic of Korea (the)
+  French	République de Corée (la)	République de Corée (la)
+  Spanish	República de Corea (la)	República de Corea (la)
+  Russian	Республика Корея	Республика Корея
+  Chinese	大韩民国	大韩民国
+  Arabic	‫ُجهورية كوراي‬	‫ُجهورية كوراي‬
+  (1) Romanization in the McCune-Reischauer System (1939)
+  Notes	Romanization in the National System of the Republic of Korea (2000): Hanguk; Daehanminguk
+KW	KUWAIT
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ مك َويْت‬	‫د َْو َةل إَلْ مك َويْت‬
+  Al Kuwayt	Dawlat al Kuwayt
+  UN Official
+  English	Kuwait	State of Kuwait (the)
+  French	Koweït (le)	État du Koweït (l’)
+  Spanish	Kuwait	Estado de Kuwait (el)
+  Russian	Кувейт	Государство Кувейт
+  Chinese	科威特	科威特国
+  Arabic	‫إلكويت‬	‫دوةل إلكويت‬
+  Notes
+KG	KYRGYZSTAN
+  Language	Short name	Formal name
+  National Official
+  ky: Kirghiz	Кыргызстан	Кыргыз Республикасы
+  Kyrgyzstan (1)	Kyrgyz Respublikasy (1)
+  ru: Russian	Кыргызстан	Кыргызская Республика
+  Kyrgyzstan	Kyrgyzskaja Respublika
+  UN Official
+  English	Kyrgyzstan	Kyrgyz Republic (the)
+  French	Kirghizistan (le)	République kirghize (la)
+  Spanish	Kirguistán	República Kirguisa (la)
+  Russian	Кыргызстан	Кыргызская Республика
+  Chinese	吉尔吉斯斯坦	吉尔吉斯共和国
+  Arabic	‫قريغزيس تان‬	‫ُجهورية قريغزيس تان‬
+  Notes	(1) Romanization in the BGN/PCGN 1979 system
+LA	LAO PEOPLE’S DEMOCRATIC REPUBLIC
+  Language	Short name	Formal name
+  National Official
+  lo: Lao	ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ
+  Sathalanalat Paxathipatai Paxaxôn Lao (1)
+  UN Official
+  English	Lao People’s Democratic Republic (the)	Lao People’s Democratic Republic (the)
+  French	République démocratique populaire lao (la)	République démocratique populaire lao (la)
+  Spanish	República Democrática Popular Lao (la)	República Democrática Popular Lao (la)
+  Лаосская Народно-Демократическая	Лаосская Народно-Демократическая
+  Russian
+  Республика	Республика
+  Chinese	老挝人民民主共和国	老挝人民民主共和国
+  Arabic	‫ُجهورية لو إلميقرإطية إلشعبية‬	‫ُجهورية لو إلميقرإطية إلشعبية‬
+  (1) Romanization in the BGN/PCGN 1966 system (based on the Lao Commission Nationale de
+  Notes	Toponymie (CNT) system)
+LV	LATVIA
+  Language	Short name	Formal name
+  National Official
+  Iv: Latvian	Latvija	Latvijas Republika
+  UN Official
+  English	Latvia	Republic of Latvia (the)
+  French	Lettonie (la)	République de Lettonie (la)
+  Spanish	Letonia	República de Letonia (la)
+  Russian	Латвия	Латвийская Республика
+  Chinese	拉脱维亚	拉脱维亚共和国
+  Arabic	‫لتفيا‬	‫ُجهورية لتفيا‬
+  Notes
+LB	LEBANON
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫لم ْبنَان‬	‫َإلْ مج ْمه ِموريَّة إَلل ُّ ْبنَا ِن َّية‬
+  Lubnān	Al Jumhūriyyah al Lubnāniyyah
+  UN Official
+  English	Lebanon	Lebanese Republic (the)
+  French	Liban (le)	République libanaise (la)
+  Spanish	Líbano (el)	República Libanesa (la)
+  Russian	Ливан	Ливанская Республика
+  Chinese	黎巴嫩	黎巴嫩共和国
+  Arabic	‫لبنان‬	‫إمجلهورية إللبنانية‬
+  Notes
+LS	LESOTHO
+  Language	Short name	Formal name
+  National Official
+  en: English	Lesotho	Kingdom of Lesotho (the)
+  st: Sesotho	Lesotho	?
+  UN Official
+  English	Lesotho	Kingdom of Lesotho (the)
+  French	Lesotho (le)	Royaume du Lesotho (le)
+  Spanish	Lesotho	Reino de Lesotho (el)
+  Russian	Лесото	Королевство Лесото
+  Chinese	莱索托	莱索托王国
+  Arabic	‫ليسوتو‬	‫مملكة ليسوتو‬
+  Notes
+LR	LIBERIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Liberia	Republic of Liberia (the)
+  UN Official
+  English	Liberia	Republic of Liberia (the)
+  French	Libéria (le)	République du Libéria (la)
+  Spanish	Liberia	República de Liberia (la)
+  Russian	Либерия	Республика Либерия
+  Chinese	利比里亚	利比里亚共和国
+  Arabic	‫ليرباي‬	‫ُجهورية ليرباي‬
+  Notes
+LY	LIBYA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫ِلي ِبيَا‬	‫ِلي ِبيَا‬
+  Lībiyā	Lībiyā
+  UN Official
+  English	Libya	Libya
+  French	Libye	Libye
+  Spanish	Libia	Libia
+  Russian	Ливия	Ливия
+  Chinese	利比亚	利比亚
+  Arabic	‫ليبيا‬	‫ليبيا‬
+  Notes
+LI	LIECHTENSTEIN
+  Language	Short name	Formal name
+  National Official
+  de: German	Liechtenstein	Fürstentum Liechtenstein (das)
+  UN Official
+  English	Liechtenstein	Principality of Liechtenstein (the)
+  French	Liechtenstein (le)	Principauté du Liechtenstein (la)
+  Spanish	Liechtenstein	Principado de Liechtenstein (el)
+  Russian	Лихтенштейн	Княжество Лихтенштейн
+  Chinese	列支敦士登	列支敦士登公国
+  Arabic	‫ليختنش تاين‬	‫إإمارة ليختنش تاين‬
+  Notes
+LT	LITHUANIA
+  Language	Short name	Formal name
+  National Official
+  It: Lithuanian	Lietuva	Lietuvos Respublika
+  UN Official
+  English	Lithuania	Republic of Lithuania (the)
+  French	Lituanie (la)	République de Lituanie (la)
+  Spanish	Lituania	República de Lituania (la)
+  Russian	Литва	Литовская Республика
+  Chinese	立陶宛	立陶宛共和国
+  Arabic	‫ليتوإنيا‬	‫ُجهورية ليتوإنيا‬
+  Notes
+LU	LUXEMBOURG
+  Language	Short name	Formal name
+  National Official
+  de: German	Luxemburg	Großherzogtum Luxemburg (das)
+  fr: French	Luxembourg (le)	Grand-Duché de Luxembourg (le)
+  lb: Luxembourgish	Lëtzebuerg	Groussherzogtum Lëtzebuerg
+  UN Official
+  English	Luxembourg	Grand Duchy of Luxembourg (the)
+  French	Luxembourg (le)	Grand-Duché de Luxembourg (le)
+  Spanish	Luxemburgo	Gran Ducado de Luxemburgo (el)
+  Russian	Люксембург	Великое Герцогство Люксембург
+  Chinese	卢森堡	卢森堡大公国
+  Arabic	‫لكسمربغ‬	‫دوقية لكسمربغ إلكربى‬
+  Notes
+MG	MADAGASCAR
+  Language	Short name	Formal name
+  National Official
+  fr: French	Madagascar	République de Madagascar (la)
+  mg: Malagasy	Madagasikara	Repoblikan’i Madagasikara
+  UN Official
+  English	Madagascar	Republic of Madagascar (the)
+  French	Madagascar (fém.)	République de Madagascar (la)
+  Spanish	Madagascar	República de Madagascar (la)
+  Russian	Мадагаскар	Республика Мадагаскар
+  Chinese	马达加斯加	马达加斯加共和国
+  Arabic	‫مدغشقر‬	‫ُجهورية مدغشقر‬
+  Notes
+MW	MALAWI
+  Language	Short name	Formal name
+  National Official
+  en: English	Malawi	Republic of Malawi (the)
+  ny: Chichewa	Malaŵi	Dziko la Malaŵi
+  UN Official
+  English	Malawi	Republic of Malawi (the)
+  French	Malawi (le)	République du Malawi (la)
+  Spanish	Malawi	República de Malawi (la)
+  Russian	Малави	Республика Малави
+  Chinese	马拉维	马拉维共和国
+  Arabic	‫مالوي‬	‫ُجهورية مالوي‬
+  Notes
+MY	MALAYSIA
+  Language	Short name	Formal name
+  National Official
+  ms: Malay	Malaysia	Malaysia
+  UN Official
+  English	Malaysia	Malaysia
+  French	Malaisie (la)	Malaisie (la)
+  Spanish	Malasia	Malasia
+  Russian	Малайзия	Малайзия
+  Chinese	马来西亚	马来西亚
+  Arabic	‫مالزياي‬	‫مالزياي‬
+  Notes
+MV	MALDIVES
+  Language	Short name	Formal name
+  National Official
+  dv: Maldivian	 ެ ‫ރ ްއ‬ ‫ޖ‬ ާ ‫ިދ ެވ ިހ‬	 ާ ‫ރ ްއ‬ ‫ޔ‬ ި ‫މ ޫހ‬ ‫ޖ‬ ‫ގ‬ ‫ރ ްއޖ‬ ‫ިދ ެވ ިހ‬
+  Dhivehi Raajje (1)	Dhivehi Raajjeyge Jumhooriyyaa (1)
+  UN Official
+  English	Maldives	Republic of Maldives (the)
+  French	Maldives (les) (fém.)	République des Maldives (la)
+  Spanish	Maldivas	República de Maldivas (la)
+  Russian	Мальдивские Острова	Мальдивская Республика
+  Chinese	马尔代夫	马尔代夫共和国
+  Arabic	‫مدليف‬	‫ُجهورية مدليف‬
+  Notes	(1) Romanization in the Maldivian Government 1987 System, updated 2009.
+ML	MALI
+  Language	Short name	Formal name
+  National Official
+  fr: French	Mali (le)	République du Mali (la)
+  UN Official
+  English	Mali	Republic of Mali (the)
+  French	Mali (le)	République du Mali (la)
+  Spanish	Malí	República de Malí (la)
+  Russian	Мали	Республика Мали
+  Chinese	马里	马里共和国
+  Arabic	‫مايل‬	‫ُجهورية مايل‬
+  Notes
+MT	MALTA
+  Language	Short name	Formal name
+  National Official
+  en: English	Malta	Republic of Malta (the)
+  mt: Maltese	Malta	Repubblika ta’ Malta
+  UN Official
+  English	Malta	Republic of Malta (the)
+  French	Malte (fém.)	République de Malte (la)
+  Spanish	Malta	República de Malta (la)
+  Russian	Мальта	Республика Мальта
+  Chinese	马耳他	马耳他共和国
+  Arabic	‫مالطة‬	‫ُجهورية مالطة‬
+  Notes
+MH	MARSHALL ISLANDS
+  Language	Short name	Formal name
+  National Official
+  en: English	Marshall Islands (the)	Republic of the Marshall Islands (the)
+  mh: Marshallese	Aelōn̄ in M̧ajeļ	?
+  UN Official
+  English	Marshall Islands (the)	Republic of the Marshall Islands (the)
+  French	Îles Marshall (les)	République des Îles Marshall (la)
+  Spanish	Islas Marshall (las)	República de las Islas Marshall (la)
+  Russian	Маршалловы Острова	Республика Маршалловы Острова
+  Chinese	马绍尔群岛	马绍尔群岛共和国
+  Arabic	‫جزر مارشال‬	‫ُجهورية جزر مارشال‬
+  Notes
+MR	MAURITANIA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫ممو ِري َتا ِن َيا‬	‫َإلْ مج ْمه ِموريَّة َإل ْإسال ِميَّة َإلْ مم ِوريتَا ِنيَّة‬
+  Mūrītāniyā	Al Jumhūriyyah al Islāmiyyah al Mūrītāniyyah
+  UN Official
+  English	Mauritania	Islamic Republic of Mauritania (the)
+  French	Mauritanie (la)	République islamique de Mauritanie (la)
+  Spanish	Mauritania	República Islámica de Mauritania (la)
+  Russian	Мавритания	Исламская Республика Мавритания
+  Chinese	毛里塔尼亚	毛里塔尼亚伊斯兰共和国
+  Arabic	‫موريتانيا‬	‫إمجلهورية إلإسالمية إملوريتانية‬
+  Notes
+MU	MAURITIUS
+  Language	Short name	Formal name
+  National Official
+  en: English	Mauritius	Republic of Mauritius (the)
+  UN Official
+  English	Mauritius	Republic of Mauritius (the)
+  French	Maurice (fém.)	République de Maurice (la)
+  Spanish	Mauricio	República de Mauricio (la)
+  Russian	Маврикий	Республика Маврикий
+  Chinese	毛里求斯	毛里求斯共和国
+  Arabic	‫موريش يوس‬	‫ُجهورية موريش يوس‬
+  Notes
+MX	MEXICO
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	México	Estados Unidos Mexicanos (los)
+  UN Official
+  English	Mexico	United Mexican States (the)
+  French	Mexique (le)	États-Unis du Mexique (les)
+  Spanish	México	Estados Unidos Mexicanos (los)
+  Russian	Мексика	Мексиканские Соединенные Штаты
+  Chinese	墨西哥	墨西哥合众国
+  Arabic	‫إملكس يك‬	‫إلولايت إملتحدة إملكس يكية‬
+  Notes
+FM	MICRONESIA (FEDERATED STATES OF)
+  Language	Short name	Formal name
+  National Official
+  en: English	Federated States of Micronesia (the)	Federated States of Micronesia (the)
+  UN Official
+  English	Micronesia (Federated States of)	Federated States of Micronesia (the)
+  French	Micronésie (États fédérés de)	États fédérés de Micronésie (les)
+  Spanish	Micronesia (Estados Federados de)	Estados Federados de Micronesia (los)
+  Russian	Микронезия (Федеративные Штаты)	Федеративные Штаты Микронезии
+  Chinese	密克罗尼西亚 (联邦)	密克罗尼西亚联邦
+  Arabic	(‫] إملوحدة‬...[ ‫ميكرونزياي )ولايت‬	‫ولايت ميكرونزياي إملوحدة‬
+  Notes
+MD	MOLDOVA, REPUBLIC OF
+  Language	Short name	Formal name
+  National Official
+  ro: Romanian	Moldova	Republica Moldova
+  UN Official
+  English	Republic of Moldova (the)	Republic of Moldova (the)
+  French	République de Moldova (la)	République de Moldova (la)
+  Spanish	República de Moldova (la)	República de Moldova (la)
+  Russian	Республика Молдова	Республика Молдова
+  Chinese	摩尔多瓦共和国	摩尔多瓦共和国
+  Arabic	‫ُجهورية مولوفا‬	‫ُجهورية مولوفا‬
+  Notes
+MC	MONACO
+  Language	Short name	Formal name
+  National Official
+  fr: French	Monaco (masc.)	Principauté de Monaco (la)
+  UN Official
+  English	Monaco	Principality of Monaco (the)
+  French	Monaco (masc.)	Principauté de Monaco (la)
+  Spanish	Mónaco	Principado de Mónaco (el)
+  Russian	Монако	Княжество Монако
+  Chinese	摩纳哥	摩纳哥公国
+  Arabic	‫موانكو‬	‫إإمارة موانكو‬
+  Notes
+MN	MONGOLIA
+  Language	Short name	Formal name
+  National Official
+  mn: Mongolian	Монгол	Монгол улс
+  Mongol (1)	Mongol uls (1)
+  UN Official
+  English	Mongolia	Mongolia
+  French	Mongolie (la)	Mongolie (la)
+  Spanish	Mongolia	Mongolia
+  Russian	Монголия	Монголия
+  Chinese	蒙古	蒙古国
+  Arabic	‫منغوليا‬	‫منغوليا‬
+  Notes	(1) Romanization in the BGN/PCGN system (1964)
+ME	MONTENEGRO
+  Language	Short name	Formal name
+  National Official
+  sr: Serbian	Црна Гора	Црна Гора
+  Crna Gora	Crna Gora
+  UN Official
+  English	Montenegro	Montenegro
+  French	Monténégro (le)	Monténégro (le)
+  Spanish	Montenegro	Montenegro
+  Russian	Черногория	Черногория
+  Chinese	黑山	黑山
+  Arabic	‫إجلبل إلسود‬	‫إجلبل إلسود‬
+  Notes
+MA	MOROCCO
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ َم ْغ ِرب‬	‫َإلْ َم ْملَ َكة إَلْ َم ْغ ِرب َّية‬
+  Al Maghrib	Al Mamlakah al Maghribiyyah
+  UN Official
+  English	Morocco	Kingdom of Morocco (the)
+  French	Maroc (le)	Royaume du Maroc (le)
+  Spanish	Marruecos	Reino de Marruecos (el)
+  Russian	Марокко	Королевство Марокко
+  Chinese	摩洛哥	摩洛哥王国
+  Arabic	‫إملغرب‬	‫إململكة إملغربية‬
+  Notes
+MZ	MOZAMBIQUE
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Moçambique	República de Moçambique (a)
+  UN Official
+  English	Mozambique	Republic of Mozambique (the)
+  French	Mozambique (le)	République du Mozambique (la)
+  Spanish	Mozambique	República de Mozambique (la)
+  Russian	Мозамбик	Республика Мозамбик
+  Chinese	莫桑比克	莫桑比克共和国
+  Arabic	‫موزإمبيق‬	‫ُجهورية موزإمبيق‬
+  Notes
+MM	MYANMAR
+  Language	Short name	Formal name
+  National Official
+  my: Burmese
+  Myanma (1)	Pyidaungzu Thammada Myanma Naingngandaw (1)
+  UN Official
+  English	Myanmar	Republic of the Union of Myanmar (the)
+  French	Myanmar (le)	République de l’Union du Myanmar (la)
+  Spanish	Myanmar	República de la Unión de Myanmar (la)
+  Russian	Мьянма	Республика Союз Мьянма
+  Chinese	缅甸	缅甸联邦共和国
+  Arabic	‫ميامنار‬	‫ُجهورية إحتاد ميامنار‬
+  Notes	(1) Romanization in the BGN/PCGN system (1970)
+NA	NAMIBIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Namibia	Republic of Namibia (the)
+  UN Official
+  English	Namibia	Republic of Namibia (the)
+  French	Namibie (la)	République de Namibie (la)
+  Spanish	Namibia	República de Namibia (la)
+  Russian	Намибия	Республика Намибия
+  Chinese	纳米比亚	纳米比亚共和国
+  Arabic	‫انميبيا‬	‫ُجهورية انميبيا‬
+  Notes
+NR	NAURU
+  Language	Short name	Formal name
+  National Official
+  en: English	Nauru	Republic of Nauru (the)
+  na: Nauruan	Naoero	?
+  UN Official
+  English	Nauru	Republic of Nauru (the)
+  French	Nauru (fém.)	République de Nauru (la)
+  Spanish	Nauru	República de Nauru (la)
+  Russian	Науру	Республика Науру
+  Chinese	瑙鲁	瑙鲁共和国
+  Arabic	‫انورو‬	‫ُجهورية انورو‬
+  Notes
+NP	NEPAL
+  Language	Short name	Formal name
+  National Official
+  ne: Nepalese	नेपाल	संघीय लोकतान्त्रिक गणतरि नेपाल
+  Nepāl	Saṁghīya Loktāntrik Gaṇatantra Nepāl
+  UN Official
+  English	Nepal	Federal Democratic Republic of Nepal (the)
+  French	Népal (le)	République fédérale démocratique du Népal (la)
+  Spanish	Nepal	República Democrática Federal de Nepal (la)
+  Russian	Непал	Федеративная Демократическая Республика
+  Непал
+  Chinese	尼泊尔	尼泊尔联邦民主共和国
+  Arabic	‫نيبال‬	‫ُجهورية نيبال إلميقرإطية الاحتادية‬
+  Notes
+NL	NETHERLANDS
+  Language	Short name	Formal name
+  National Official
+  nl: Dutch	Nederland	Koninkrijk der Nederlanden (het)
+  UN Official
+  English	Netherlands (the)	Kingdom of the Netherlands (the)
+  French	Pays-Bas (les)	Royaume des Pays-Bas (le)
+  Spanish	Países Bajos (los)	Reino de los Países Bajos (el)
+  Russian	Нидерланды	Королевство Нидерландов
+  Chinese	荷兰	荷兰王国
+  Arabic	‫هولندإ‬	‫مملكة هولندإ‬
+  Notes
+NZ	NEW ZEALAND
+  Language	Short name	Formal name
+  National Official
+  en: English	New Zealand	New Zealand
+  mi: Maori	Aotearoa	Aotearoa
+  UN Official
+  English	New Zealand	New Zealand
+  French	Nouvelle-Zélande (la)	Nouvelle-Zélande (la)
+  Spanish	Nueva Zelandia	Nueva Zelandia
+  Russian	Новая Зеландия	Новая Зеландия
+  Chinese	新西兰	新西兰
+  Arabic	‫نيوزيلندإ‬	‫نيوزيلندإ‬
+  Notes
+NI	NICARAGUA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Nicaragua	República de Nicaragua (la)
+  UN Official
+  English	Nicaragua	Republic of Nicaragua (the)
+  French	Nicaragua (le)	République du Nicaragua (la)
+  Spanish	Nicaragua	República de Nicaragua (la)
+  Russian	Никарагуа	Республика Никарагуа
+  Chinese	尼加拉瓜	尼加拉瓜共和国
+  Arabic	‫نياكرإغوإ‬	‫ُجهورية نياكرإغوإ‬
+  Notes
+NE	NIGER
+  Language	Short name	Formal name
+  National Official
+  fr: French	Niger (le)	République du Niger (la)
+  UN Official
+  English	Niger (the)	Republic of the Niger (the)
+  French	Niger (le)	République du Niger (la)
+  Spanish	Níger (el)	República del Níger (la)
+  Russian	Нигер	Республика Нигер
+  Chinese	尼日尔	尼日尔共和国
+  Arabic	‫إلنيجر‬	‫ُجهورية إلنيجر‬
+  Notes
+NG	NIGERIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Nigeria	Federal Republic of Nigeria (the)
+  UN Official
+  English	Nigeria	Federal Republic of Nigeria (the)
+  French	Nigéria (le)	République fédérale du Nigéria (la)
+  Spanish	Nigeria	República Federal de Nigeria (la)
+  Russian	Нигерия	Федеративная Республика Нигерия
+  Chinese	尼日利亚	尼日利亚联邦共和国
+  Arabic	‫نيجرياي‬	‫ُجهورية نيجرياي الاحتادية‬
+  Notes
+NO	NORWAY
+  Language	Short name	Formal name
+  National Official
+  nb: Bokmål	Norge	Kongeriket Norge
+  nn: Nynorsk	Noreg	Kongeriket Noreg
+  UN Official
+  English	Norway	Kingdom of Norway (the)
+  French	Norvège (la)	Royaume de Norvège (le)
+  Spanish	Noruega	Reino de Noruega (el)
+  Russian	Норвегия	Королевство Норвегия
+  Chinese	挪威	挪威王国
+  Arabic	‫إلرنوجي‬	‫مملكة إلرنوجي‬
+  Notes
+OM	OMAN
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫م َُعان‬	‫َسلْ َطنَة م َُعان‬
+  ‘Umān	Salţanat ‘Umān
+  UN Official
+  English	Oman	Sultanate of Oman (the)
+  French	Oman (masc.)	Sultanat d’Oman (le)
+  Spanish	Omán	Sultanía de Omán (la)
+  Russian	Оман	Султанат Оман
+  Chinese	阿曼	阿曼苏丹国
+  Arabic	‫عامن‬	‫سلطنة عامن‬
+  Notes
+PK	PAKISTAN
+  Language	Short name	Formal name
+  National Official
+  en: English	Pakistan	Islamic Republic of Pakistan (the)
+  ur: Urdu	‫پَاکِ ْس تَان‬	‫َ ُْجه ْموري َة إ ْسال ِمی پَاکِ ْس تَان‬
+  
+  Pākistān	Jamhūryat Islāmī Pākistān
+  UN Official
+  English	Pakistan	Islamic Republic of Pakistan (the)
+  French	Pakistan (le)	République islamique du Pakistan (la)
+  Spanish	Pakistán (el)	República Islámica del Pakistán (la)
+  Russian	Пакистан	Исламская Республика Пакистан
+  Chinese	巴基斯坦	巴基斯坦伊斯兰共和国
+  Arabic	‫ابكس تان‬	‫ُجهورية ابكس تان إلإسالمية‬
+  Notes
+PW	PALAU
+  Language	Short name	Formal name
+  National Official
+  en: English	Palau	Republic of Palau (the)
+  Palauan	Belau	Beluu er a Belau
+  UN Official
+  English	Palau	Republic of Palau (the)
+  French	Palaos (les)	République des Palaos (la)
+  Spanish	Palau	República de Palau (la)
+  Russian	Палау	Республика Палау
+  Chinese	帕劳	帕劳共和国
+  Arabic	‫ابلو‬	‫ُجهورية ابلو‬
+  Notes
+PA	PANAMA
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Panamá	República de Panamá (la)
+  UN Official
+  English	Panama	Republic of Panama (the)
+  French	Panama (le)	République du Panama (la)
+  Spanish	Panamá	República de Panamá (la)
+  Russian	Панама	Республика Панама
+  Chinese	巴拿马	巴拿马共和国
+  Arabic	‫بامن‬	‫ُجهورية بامن‬
+  Notes
+PG	PAPUA NEW GUINEA
+  Language	Short name	Formal name
+  National Official
+  en: English	Papua New Guinea	Independent State of Papua New Guinea (the)
+  ho: Hiri Motu	Papuaniugini	?
+  Neo-Melanesian
+  (Tok Pisin)	Papuaniugini	Independen Stet bilong Papuaniugini
+  UN Official (1)
+  English	Papua New Guinea	Independent State of Papua New Guinea
+  État indépendant de Papouasie-Nouvelle-Guinée
+  French	Papouasie-Nouvelle-Guinée (la)	(l’)
+  Spanish	Papua Nueva Guinea	Estado Independiente de Papua Nueva Guinea
+  Независимое государство Папуа – Новая
+  Russian	Папуа-Новая Гвинея	Гвинея
+  Chinese	巴布亚新几内亚	巴布亚新几内亚独立国
+  Arabic	‫اببوإ غينيا إجلديدة‬
+  Notes	(1)	Change of formal name from "Papua New Guinea" announced in March 2013.
+PY	PARAGUAY
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Paraguay (el)	República del Paraguay (la)
+  gn: Guarani	Paraguay	Paraguay Retãn
+  UN Official
+  English	Paraguay	Republic of Paraguay (the)
+  French	Paraguay (le)	République du Paraguay (la)
+  Spanish	Paraguay (el)	República del Paraguay (la)
+  Russian	Парагвай	Республика Парагвай
+  Chinese	巴拉圭	巴拉圭共和国
+  Arabic	‫ابرإغوإي‬	‫ُجهورية ابرإغوإي‬
+  Notes
+PE	PERU
+  Language	Short name	Formal name
+  National Official
+  ay: Aymara	Perú	?
+  es: Spanish	Perú (el)	República del Perú (la)
+  qu: Quechua	Perú	?
+  UN Official
+  English	Peru	Republic of Peru (the)
+  French	Pérou (le)	République du Pérou (la)
+  Spanish	Perú (el)	República del Perú (la)
+  Russian	Перу	Республика Перу
+  Chinese	秘鲁	秘鲁共和国
+  Arabic	‫بريو‬	‫ُجهورية بريو‬
+  Notes
+PH	PHILIPPINES
+  Language	Short name	Formal name
+  National Official
+  en: English	Philippines (the)	Republic of the Philippines (the)
+  tl: Pilipino	Pilipinas	Republika ng Pilipinas
+  UN Official
+  English	Philippines (the)	Republic of the Philippines (the)
+  French	Philippines (les) (fém.)	République des Philippines (la)
+  Spanish	Filipinas	República de Filipinas (la)
+  Russian	Филиппины	Республика Филиппины
+  Chinese	菲律宾	菲律宾共和国
+  Arabic	‫إلفلبني‬	‫ُجهورية إلفلبني‬
+  Notes
+PL	POLAND
+  Language	Short name	Formal name
+  National Official
+  pl: Polish	Polska	Rzeczpospolita Polska
+  UN Official
+  English	Poland	Republic of Poland (the)
+  French	Pologne (la)	République de Pologne (la)
+  Spanish	Polonia	República de Polonia (la)
+  Russian	Польша	Республика Польша
+  Chinese	波兰	波兰共和国
+  Arabic	‫بولندإ‬	‫ُجهورية بولندإ‬
+  Notes
+PT	PORTUGAL
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Portugal	República Portuguesa (a)
+  UN Official
+  English	Portugal	Portuguese Republic (the)
+  French	Portugal (le)	République portugaise (la)
+  Spanish	Portugal	República Portuguesa (la)
+  Russian	Португалия	Португальская Республика
+  Chinese	葡萄牙	葡萄牙共和国
+  Arabic	‫إلربتغال‬	‫إمجلهورية إلربتغالية‬
+  Notes
+QA	QATAR
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫قَ َطر‬	‫د َْو َةل قَ َطر‬
+  Qaţar	Dawlat Qaţar
+  UN Official
+  English	Qatar	State of Qatar (the)
+  French	Qatar (le)	État du Qatar (l’)
+  Spanish	Qatar	Estado de Qatar (el)
+  Russian	Катар	Государство Катар
+  Chinese	卡塔尔	卡塔尔国
+  Arabic	‫قطر‬	‫دوةل قطر‬
+  Notes
+RO	ROMANIA
+  Language	Short name	Formal name
+  National Official
+  ro: Romanian	România	România
+  UN Official
+  English	Romania	Romania
+  French	Roumanie (la)	Roumanie (la)
+  Spanish	Rumania	Rumania
+  Russian	Румыния	Румыния
+  Chinese	罗马尼亚	罗马尼亚
+  Arabic	‫رومانيا‬	‫رومانيا‬
+  Notes
+RU	RUSSIAN FEDERATION
+  Language	Short name	Formal name
+  National Official
+  Россия	Российская Федерация
+  ru: Russian	Rossija	Rossijskaja Federacija
+  UN Official
+  English	Russian Federation (the)	Russian Federation (the)
+  French	Fédération de Russie (la)	Fédération de Russie (la)
+  Spanish	Federación de Rusia (la)	Federación de Rusia (la)
+  Russian	Российская Федерация	Российская Федерация
+  Chinese	俄罗斯联邦	俄罗斯联邦
+  Arabic	‫الاحتاد إلرويس‬	‫الاحتاد إلرويس‬
+  Notes
+RW	RWANDA
+  Language	Short name	Formal name
+  National Official
+  en: English	Rwanda	Republic of Rwanda
+  fr: French	Rwanda (le)	République du Rwanda (la)
+  rw: Kinyarwanda	Rwanda	Republika y’u Rwanda
+  UN Official
+  English	Rwanda	Republic of Rwanda (the)
+  French	Rwanda (le)	République du Rwanda (la)
+  Spanish	Rwanda	República de Rwanda (la)
+  Russian	Руанда	Руандийская Республика
+  Chinese	卢旺达	卢旺达共和国
+  Arabic	‫روإندإ‬	‫ُجهورية روإندإ‬
+  Notes
+KN	SAINT KITTS AND NEVIS
+  Language	Short name	Formal name
+  National Official
+  en: English	Saint Kitts and Nevis	Federation of Saint Christopher and
+  Nevis (the)
+  UN Official
+  English	Saint Kitts and Nevis	Saint Kitts and Nevis
+  French	Saint-Kitts-et-Nevis (masc.)	Saint-Kitts-et-Nevis (masc.)
+  Spanish	Saint Kitts y Nevis	Saint Kitts y Nevis
+  Russian	Сент-Китс и Невис	Сент-Китс и Невис
+  Chinese	圣基茨和尼维斯	圣基茨和尼维斯
+  Arabic	‫سانت كيتس ونيفس‬	‫سانت كيتس ونيفس‬
+  Notes
+LC	SAINT LUCIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Saint Lucia	Saint Lucia
+  UN Official
+  English	Saint Lucia	Saint Lucia
+  French	Sainte-Lucie (fém.)	Sainte-Lucie (fém.)
+  Spanish	Santa Lucía	Santa Lucía
+  Russian	Сент-Люсия	Сент-Люсия
+  Chinese	圣卢西亚	圣卢西亚
+  Arabic	‫سانت لوس يا‬	‫سانت لوس يا‬
+  Notes
+VC	SAINT VINCENT AND THE GRENADINES
+  Language	Short name	Formal name
+  National Official
+  en: English	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+  UN Official
+  English	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines
+  French	Saint-Vincent-et-les Grenadines (fém.)	Saint-Vincent-et-les Grenadines (fém.)
+  Spanish	San Vicente y las Granadinas	San Vicente y las Granadinas
+  Russian	Сент-Винсент и Гренадины	Сент-Винсент и Гренадины
+  Chinese	圣文森特和格林纳丁斯	圣文森特和格林纳丁斯
+  Arabic	‫سانت فنسنت وجزر غرينادين‬	‫سانت فنسنت وجزر غرينادين‬
+  Notes
+WS	SAMOA
+  Language	Short name	Formal name
+  National Official
+  en: English	Samoa	Independent State of Samoa (the)
+  sm: Samoan	Samoa	Malo Sa‘oloto Tuto‘atasi o Samoa
+  UN Official
+  English	Samoa	Independent State of Samoa (the)
+  French	Samoa (le)	État indépendant du Samoa (l’)
+  Spanish	Samoa	Estado Independiente de Samoa (el)
+  Russian	Самоа	Независимое Государство Самоа
+  Chinese	萨摩亚	西萨摩亚独立国
+  Arabic	‫ساموإ‬	‫دوةل ساموإ إملس تقةل‬
+  Notes
+SM	SAN MARINO
+  Language	Short name	Formal name
+  National Official
+  it: Italian	San Marino	Repubblica di San Marino (la)
+  UN Official
+  English	San Marino	Republic of San Marino (the)
+  French	Saint-Marin (masc.)	République de Saint-Marin (la)
+  Spanish	San Marino	República de San Marino (la)
+  Russian	Сан-Марино	Республика Сан-Марино
+  Chinese	圣马力诺	圣马力诺共和国
+  Arabic	‫سان مارينو‬	‫ُجهورية سان مارينو‬
+  Notes
+ST	SAO TOME AND PRINCIPE
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	São Tomé e Príncipe	República Democrática de São
+  Tomé e Príncipe (a)
+  UN Official
+  English	Sao Tome and Principe	Democratic Republic of Sao Tome and
+  Principe (the)
+  République démocratique de Sao Tomé-et-
+  French	Sao Tomé-et-Principe (fém.)	Principe (la)
+  Spanish	Santo Tomé y Príncipe	República Democrática de Santo Tomé y
+  Príncipe (la)
+  Демократическая Республика Сан-Томе и
+  Russian	Сан-Томе и Принсипи
+  Принсипи
+  Chinese	圣多美和普林西比	圣多美和普林西比民主共和国
+  Arabic	‫سان تويم وبرينسييب‬	‫ُجهورية سان تويم وبرينسييب إلميقرإطية‬
+  Notes
+SA	SAUDI ARABIA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإ ُّلس معو ِديَّة‬	‫إَمل َ ْملَ َكة َإلْ َع َ ِرب َّية إَ ُّلس معو ِديَّة‬
+  As Su‘ūdiyyah	Al Mamlakah al ‘Arabiyyah as Su‘ūdiyyah
+  UN Official
+  English	Saudi Arabia	Kingdom of Saudi Arabia (the)
+  French	Arabie saoudite (l’) (fém.)	Royaume d’Arabie saoudite (le)
+  Spanish	Arabia Saudita (la)	Reino de Arabia Saudita (el)
+  Russian	Саудовская Аравия	Королевство Саудовская Аравия
+  Chinese	沙特阿拉伯	沙特阿拉伯王国
+  Arabic	‫إململكة إلعربية إلسعودية‬	‫إململكة إلعربية إلسعودية‬
+  Notes
+SN	SENEGAL
+  Language	Short name	Formal name
+  National Official
+  fr: French	Sénégal (le)	République du Sénégal (la)
+  UN Official
+  English	Senegal	Republic of Senegal (the)
+  French	Sénégal (le)	République du Sénégal (la)
+  Spanish	Senegal (el)	República del Senegal (la)
+  Russian	Сенегал	Республика Сенегал
+  Chinese	塞内加尔	塞内加尔共和国
+  Arabic	‫إلس نغال‬	‫ُجهورية إلس نغال‬
+  Notes
+RS	SERBIA
+  Language	Short name	Formal name
+  National Official
+  sr: Serbian	Србија	Република Србија
+  Srbija	Republika Srbija
+  UN Official
+  English	Serbia	Republic of Serbia (the)
+  French	Serbie (la)	République de Serbie (la)
+  Spanish	Serbia	República de Serbia (la)
+  Russian	Сербия	Республика Сербия
+  Chinese	塞尔维亚	塞尔维亚共和国
+  Arabic	‫رصبيا‬	‫ُجهورية رصبيا‬
+  Notes
+SC	SEYCHELLES
+  Language	Short name	Formal name
+  National Official
+  Creole (Seselwa)	Sesel	Repiblik Sesel
+  en: English	Seychelles	Republic of Seychelles (the)
+  fr: French	Seychelles (les) (fém.)	République des Seychelles (la)
+  UN Official
+  English	Seychelles	Republic of Seychelles (the)
+  French	Seychelles (les) (fém.)	République des Seychelles (la)
+  Spanish	Seychelles	República de Seychelles (la)
+  Russian	Сейшельские Острова	Республика Сейшельские Острова
+  Chinese	塞舌尔	塞舌尔共和国
+  Arabic	‫سيش يل‬	‫ُجهورية سيش يل‬
+  Notes
+SL	SIERRA LEONE
+  Language	Short name	Formal name
+  National Official
+  en: English	Sierra Leone	Republic of Sierra Leone (the)
+  UN Official
+  English	Sierra Leone	Republic of Sierra Leone (the)
+  French	Sierra Leone (la)	République de Sierra Leone (la)
+  Spanish	Sierra Leona	República de Sierra Leona (la)
+  Russian	Сьерра-Леоне	Республика Сьерра-Леоне
+  Chinese	塞拉利昂	塞拉利昂共和国
+  Arabic	‫سريإليون‬	‫ُجهورية سريإليون‬
+  Notes
+SG	SINGAPORE
+  Language	Short name	Formal name
+  National Official
+  en: English	Singapore	Republic of Singapore (the)
+  ms: Malay	Singapura	Republik Singapura
+  ta: Tamil	சிங்கப்பூர்	சிங்கப்பூர் குடியரசு
+  Chiṅkappūr	Chiṅkappūr Kuṭiyarachu
+  zh: Chinese	新加坡	新加坡共和国
+  Xinjiapo	Xinjiapo Gongheguo
+  UN Official
+  English	Singapore	Republic of Singapore (the)
+  French	Singapour (fém.)	République de Singapour (la)
+  Spanish	Singapur	República de Singapur (la)
+  Russian	Сингапур	Республика Сингапур
+  Chinese	新加坡	新加坡共和国
+  Arabic	‫س نغافورة‬	‫ُجهورية س نغافورة‬
+  Notes
+SK	SLOVAKIA
+  Language	Short name	Formal name
+  National Official
+  sk: Slovak	Slovensko	Slovenská republika
+  UN Official
+  English	Slovakia	Slovak Republic (the)
+  French	Slovaquie (la)	République slovaque (la)
+  Spanish	Eslovaquia	República Eslovaca (la)
+  Russian	Словакия	Словацкая Республика
+  Chinese	斯洛伐克	斯洛伐克共和国
+  Arabic	‫سلوفاكيا‬	‫إمجلهورية إلسلوفاكية‬
+  Notes
+SI	SLOVENIA
+  Language	Short name	Formal name
+  National Official
+  sl: Slovene	Slovenija	Republika Slovenija
+  UN Official
+  English	Slovenia	Republic of Slovenia (the)
+  French	Slovénie (la)	République de Slovénie (la)
+  Spanish	Eslovenia	República de Eslovenia (la)
+  Russian	Словения	Республика Словения
+  Chinese	斯洛文尼亚	斯洛文尼亚共和国
+  Arabic	‫سلوفينيا‬	‫ُجهورية سلوفينيا‬
+  Notes
+SB	SOLOMON ISLANDS
+  Language	Short name	Formal name
+  National Official
+  en: English	Solomon Islands	Solomon Islands
+  UN Official
+  English	Solomon Islands	Solomon Islands
+  French	Îles Salomon (les)	Îles Salomon (les)
+  Spanish	Islas Salomón (las)	Islas Salomón (las)
+  Russian	Соломоновы Острова	Соломоновы Острова
+  Chinese	所罗门群岛	所罗门群岛
+  Arabic	‫جزر سلامين‬	‫جزر سلامين‬
+  Notes
+SO	SOMALIA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإ ُّلصو َمال‬
+  Aş Şūmāl	Jumhūriyyat aş Şūmāl al Ittiḩādiyyah
+  so: Somali	Soomaaliya	Jamhuuriyadda Federaalka Soomaaliya
+  UN Official (1)
+  English	Somalia	Federal Republic of Somalia (the)
+  French	Somalie (la)	République fédérale de Somalie (la)
+  Spanish	Somalia	República Federal de Somalia (la)
+  Russian	Сомали	Федеративная Республика Сомали
+  Chinese	索马里	索马里联邦共和国
+  Arabic	‫إلصومال‬
+  Notes	(1)	Federal Republic of Somalia as of September 2012.
+ZA	SOUTH AFRICA
+  Language	Short name	Formal name
+  National Official
+  af: Afrikaans	Suid-Afrika	Republiek van Suid-Afrika
+  en: English	South Africa	Republic of South Africa (the)
+  nr: Ndebele	Sewula Afrika	iRiphabliki yeSewula Afrika
+  Pedi	Afrika-Borwa	Rephaboliki ya Afrika-Borwa
+  st: Sesotho	Afrika Borwa	Rephaboliki ya Afrika Borwa
+  ss: Swati	Ningizimu Afrika	iRiphabhulikhi yeNingizimu Afrika
+  tn: Tswana	Aforika Borwa	Rephaboliki ya Aforika Borwa
+  ts: Tsonga	Afrika Dzonga	Riphabliki ra Afrika Dzonga
+  ve: Venda	Afurika Tshipembe	Riphabuḽiki ya Afurika Tshipembe
+  xh: Xhosa	uMzantsi Afrika	iRiphabliki yaseMzantsi Afrika
+  zu: Zulu	Ningizimu Afrika	iRiphabliki yaseNingizimu Afrika
+  UN Official
+  English	South Africa	Republic of South Africa (the)
+  French	Afrique du Sud (l’) (fém.)	République sud-africaine (la)
+  Spanish	Sudáfrica	República de Sudáfrica (la)
+  Russian	Южная Африка	Южно-Африканская Республика
+  Chinese	南非	南非共和国
+  Arabic	‫جنوب أفريقيا‬	‫ُجهورية جنوب أفريقيا‬
+  Notes
+SS	SOUTH SUDAN
+  Language	Short name	Formal name
+  National Official
+  en: English	South Sudan	Republic of South Sudan (the)
+  UN Official
+  English	South Sudan (the)	Republic of South Sudan (the)
+  French	Soudan du Sud (le)	République du Soudan du Sud (la)
+  Spanish	Sudán del Sur (el)	República de Sudán del Sur (la)
+  Russian	Южный Судан	Республика Южный Судан
+  Chinese	南苏丹	南苏丹共和国
+  Arabic	‫جنوب إلسودإن‬	‫ُجهورية جنوب إلسودإن‬
+  Notes
+ES	SPAIN
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	España	Reino de España (el)
+  UN Official
+  English	Spain	Kingdom of Spain (the)
+  French	Espagne (l’) (fém.)	Royaume d’Espagne (le)
+  Spanish	España	Reino de España (el)
+  Russian	Испания	Королевство Испания
+  Chinese	西班牙	西班牙王国
+  Arabic	‫أس بانيا‬	‫مملكة أس بانيا‬
+  Notes
+LK	SRI LANKA
+  Language	Short name	Formal name
+  National Official
+  si: Sinhalese
+  Shrī Laṁkā (1)	Shrī Laṁkā Prajātāntrika Samājavādī
+  Janarajaya (1)
+  ta: Tamil	இலங்கை	இலங்கை சனநாயக சோஷலிசக்
+  குடியரசு
+  Ilaṅkai	Ilaṅkai Jaṉanāyaka Choṣhalichak
+  Kuṭiyarachu
+  UN Official
+  English	Sri Lanka	Democratic Socialist Republic of Sri
+  Lanka (the)
+  French	Sri Lanka (fém.)	République socialiste
+  démocratique de Sri Lanka (la)
+  Spanish	Sri Lanka	República Socialista Democrática
+  de Sri Lanka (la)
+  Russian	Шри-Ланка	Демократическая Социалистическая
+  Республика Шри-Ланка
+  Chinese	斯里兰卡	斯里兰卡民主社会主义共和国
+  Arabic	‫ْسي لناك‬	‫ُجهورية ْسي لناك الاشرتإكية إلميقرإطية‬
+  Notes	(1) Romanization in the system presented to the Second UN Conference by D.Sharma
+SD	SUDAN
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic
+  ‫َإ ُّلسودَإن‬	‫م ُْجه ِموريَّة َإ ُّلسودَإن‬
+  As Sūdān	Jumhūriyyat as Sūdān
+  en: English	Sudan	Republic of the Sudan (the)
+  UN Official
+  English	Sudan (the)	Republic of the Sudan (the)
+  French	Soudan (le)	République du Soudan (la)
+  Spanish	Sudán (el)	República del Sudán (la)
+  Russian	Судан	Республика Судан
+  Chinese	苏丹	苏丹共和国
+  Arabic	‫إلسودإن‬	‫ُجهورية إلسودإن‬
+  Notes
+SR	SURINAME
+  Language	Short name	Formal name
+  National Official
+  nl: Dutch	Suriname	Republiek Suriname (de) (1)
+  UN Official
+  English	Suriname	Republic of Suriname (the)
+  French	Suriname (le)	République du Suriname (la)
+  Spanish	Suriname	República de Suriname (la)
+  Russian	Суринам	Республика Суринам
+  Chinese	苏里南	苏里南共和国
+  Arabic	‫سورينام‬	‫ُجهورية سورينام‬
+  Notes	(1) Variant : Republiek van Suriname (de)
+SZ	SWAZILAND
+  Language	Short name	Formal name
+  National Official
+  en: English	Swaziland	Kingdom of Swaziland (the)
+  ss: Swati	eSwatini	Umbuso weSwatini (1)
+  UN Official
+  English	Swaziland	Kingdom of Swaziland (the)
+  French	Swaziland (le)	Royaume du Swaziland (le)
+  Spanish	Swazilandia	Reino de Swazilandia (el)
+  Russian	Свазиленд	Королевство Свазиленд
+  Chinese	斯威士兰	斯威士兰王国
+  Arabic	‫سوإزيلند‬	‫مملكة سوإزيلند‬
+  Notes	(1) Means "Government of Swaziland"
+SE	SWEDEN
+  Language	Short name	Formal name
+  National Official
+  sv: Swedish	Sverige	Konungariket Sverige
+  UN Official
+  English	Sweden	Kingdom of Sweden (the)
+  French	Suède (la)	Royaume de Suède (le)
+  Spanish	Suecia	Reino de Suecia (el)
+  Russian	Швеция	Королевство Швеция
+  Chinese	瑞典	瑞典王国
+  Arabic	‫إلسويد‬	‫مملكة إلسويد‬
+  Notes
+CH	SWITZERLAND
+  Language	Short name	Formal name
+  National Official
+  de: German	Schweiz (die)	Schweizerische Eidgenossenschaft (die)
+  fr: French	Suisse (la)	Confédération suisse (la)
+  it: Italian	Svizzera (la)	Confederazione Svizzera (la)
+  rm: Romansh1	Svizra (la) 1	Confederaziun svizra (la) 1
+  UN Official
+  English	Switzerland	Swiss Confederation (the)
+  French	Suisse (la)	Confédération suisse (la)
+  Spanish	Suiza	Confederación Suiza (la)
+  Russian	Швейцария	Швейцарская Конфедерация
+  Chinese	瑞士	瑞士联邦
+  Arabic	‫سويرسإ‬	‫الاحتاد إلسويرسي‬
+  Notes	1	Article 70 of the Constitution of Switzerland states “The official languages of the Federation are
+  German, French, and Italian. Romansh is an official language for communicating with persons of Romansh language.”
+SY	SYRIAN ARAB REPUBLIC
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫ مسو ِريَّة‬or ‫مسو ِر َاي‬	‫َإلْ مج ْمه ِموريَّة َإلْ َع َ ِربيَّة إَ ُّلس ِوريَّة‬
+  Sūriyyah or Sūriyā	Al Jumhūriyyah al ‘Arabiyyah as Sūriyyah
+  UN Official
+  English	Syrian Arab Republic (the)	Syrian Arab Republic (the)
+  French	République arabe syrienne (la)	République arabe syrienne (la)
+  Spanish	República Árabe Siria (la)	República Árabe Siria (la)
+  Russian	Сирийская Арабская Республика	Сирийская Арабская Республика
+  Chinese	阿拉伯叙利亚共和国	阿拉伯叙利亚共和国
+  Arabic	‫إمجلهورية إلعربية إلسورية‬	‫إمجلهورية إلعربية إلسورية‬
+  Notes
+TJ	TAJIKISTAN
+  Language	Short name	Formal name
+  National Official
+  tg: Tajik	Тоҷикистон	Ҷумҳурии Тоҷикистон
+  Tojikiston (1)	Jumhurii Tojikiston (1)
+  UN Official
+  English	Tajikistan	Republic of Tajikistan (the)
+  French	Tadjikistan (le)	République du Tadjikistan (la)
+  Spanish	Tayikistán	República de Tayikistán (la)
+  Russian	Таджикистан	Республика Таджикистан
+  Chinese	塔吉克斯坦	塔吉克斯坦共和国
+  Arabic	‫طاجيكس تان‬	‫ُجهورية طاجيكس تان‬
+  Notes	(1) Romanization in the BGN/PCGN system (1994)
+TZ	TANZANIA, UNITED REPUBLIC OF
+  Language	Short name	Formal name
+  National Official
+  en: English	Tanzania	United Republic of Tanzania (the)
+  sw: Swahili	Tanzania	Jamhuri ya Muungano wa Tanzania
+  UN Official
+  English	United Republic of Tanzania (the)	United Republic of Tanzania (the)
+  French	République-Unie de Tanzanie (la)	République-Unie de Tanzanie (la)
+  Spanish	República Unida de Tanzanía (la)	República Unida de Tanzanía (la)
+  Russian	Объединенная Республика Танзания	Объединенная Республика Танзания
+  Chinese	坦桑尼亚联合共和国	坦桑尼亚联合共和国
+  Arabic	‫ُجهورية تزنإنيا إملتحدة‬	‫ُجهورية تزنإنيا إملتحدة‬
+  Notes
+TH	THAILAND
+  Language	Short name	Formal name
+  National Official
+  th: Thai	ประเทศไทย	ราชอาณาจักรไทย
+  Prathet Thai	Ratcha Anachak Thai
+  UN Official
+  English	Thailand	Kingdom of Thailand (the)
+  French	Thaïlande (la)	Royaume de Thaïlande (le)
+  Spanish	Tailandia	Reino de Tailandia (el)
+  Russian	Таиланд	Королевство Таиланд
+  Chinese	泰国	泰王国
+  Arabic	‫اتيلند‬	‫مملكة اتيلند‬
+  Notes
+MK	THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA
+  Language	Short name	Formal name
+  National Official
+  mk: Macedonian	Поранешна Jугословенска
+  Република Македониjа
+  Poranešna Jugoslovenska
+  Republika Makedonija
+  UN Official
+  English	The former Yugoslav Republic of Macedonia	The former Yugoslav Republic of Macedonia
+  French	l’ex-République yougoslave de Macédoine (fém.)	l’ex-République yougoslave de Macédoine
+  Spanish	la ex República Yugoslava de Macedonia	la ex República Yugoslava de Macedonia
+  Russian	бывшая югославская Республика Македония	бывшая югославская Республика
+  Македония
+  Chinese	前南斯拉夫的马其顿共和国	前南斯拉夫的马其顿共和国
+  Arabic	‫ُجهورية مقدونيا إليوغوسالفية إلسابقة‬	‫ُجهورية مقدونيا إليوغوسالفية إلسابقة‬
+  Notes
+TL	TIMOR-LESTE
+  Language	Short name	Formal name
+  National Official
+  pt: Portuguese	Timor-Leste	República Democrática de Timor-Leste (a)
+  Tetum	Timor Lorosa’e	Repúblika Demokrátika Timor Lorosa’e
+  UN Official
+  English	Timor-Leste	Democratic Republic of Timor-Leste (the)
+  French	Timor-Leste (le)	République démocratique du Timor-Leste (la)
+  Spanish	Timor-Leste	República Democrática de Timor-Leste (la)
+  Russian	Тимор-Лешти	Демократическая Республика Тимор-Лешти
+  Chinese	东帝汶	东帝汶民主共和国
+  Arabic	‫ ليش يت‬-‫تميور‬	‫ ليش يت إلميقرإطية‬- ‫ُجهورية تميور‬
+  Notes
+TG	TOGO
+  Language	Short name	Formal name
+  National Official
+  fr: French	Togo (le)	République togolaise (la)
+  UN Official
+  English	Togo	Togolese Republic (the)
+  French	Togo (le)	République togolaise (la)
+  Spanish	Togo (el)	República Togolesa (la)
+  Russian	Того	Тоголезская Республика
+  Chinese	多哥	多哥共和国
+  Arabic	‫توغو‬	‫إمجلهورية إلتوغوية‬
+  Notes
+TO	TONGA
+  Language	Short name	Formal name
+  National Official
+  en: English	Tonga	Kingdom of Tonga (the)
+  to: Tongan	Tonga	Pule‘anga Fakatu‘i‘o Tonga
+  UN Official
+  English	Tonga	Kingdom of Tonga (the)
+  French	Tonga (les) (fém.)	Royaume des Tonga (le)
+  Spanish	Tonga	Reino de Tonga (el)
+  Russian	Тонга	Королевство Тонга
+  Chinese	汤加	汤加王国
+  Arabic	‫تونغا‬	‫مملكة تونغا‬
+  Notes
+TT	TRINIDAD AND TOBAGO
+  Language	Short name	Formal name
+  National Official
+  en: English	Trinidad and Tobago	Republic of Trinidad and Tobago (the)
+  UN Official
+  English	Trinidad and Tobago	Republic of Trinidad and Tobago (the)
+  French	Trinité-et-Tobago (la)	République de Trinité-et-Tobago (la)
+  Spanish	Trinidad y Tabago	República de Trinidad y Tabago (la)
+  Russian	Тринидад и Тобаго	Республика Тринидад и Тобаго
+  Chinese	特立尼达和多巴哥	特立尼达和多巴哥共和国
+  Arabic	‫ترينيدإد وتوابغو‬	‫ُجهورية ترينيدإد وتوابغو‬
+  Notes
+TN	TUNISIA
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫تمونِس‬	‫َإلْ مج ْمه ِموريَّة َإلتُّو ِن ِس يَّة‬
+  Tūnis	Al Jumhūriyyah at Tūnisiyyah
+  UN Official
+  English	Tunisia	Republic of Tunisia (the)
+  French	Tunisie (la)	République tunisienne (la)
+  Spanish	Túnez	República de Túnez (la)
+  Russian	Тунис	Тунисская Республика
+  Chinese	突尼斯	突尼斯共和国
+  Arabic	‫تونس‬	‫إمجلهورية إلتونس ية‬
+  Notes
+TR	TURKEY
+  Language	Short name	Formal name
+  National Official
+  tr: Turkish	Türkiye	Türkiye Cumhuriyeti
+  UN Official
+  English	Turkey	Republic of Turkey (the)
+  French	Turquie (la)	République turque (la)
+  Spanish	Turquía	República de Turquía (la)
+  Russian	Турция	Турецкая Республика
+  Chinese	土耳其	土耳其共和国
+  Arabic	‫تركيا‬	‫ُجهورية تركيا‬
+  Notes
+TM	TURKMENISTAN
+  Language	Short name	Formal name
+  National Official
+  tk: Turkmen	Türkmenistan	Türkmenistan
+  UN Official
+  English	Turkmenistan	Turkmenistan
+  French	Turkménistan (le)	Turkménistan (le)
+  Spanish	Turkmenistán	Turkmenistán
+  Russian	Туркменистан	Туркменистан
+  Chinese	土库曼斯坦	土库曼斯坦
+  Arabic	‫تركامنس تان‬	‫تركامنس تان‬
+  Notes
+TV	TUVALU
+  Language	Short name	Formal name
+  National Official
+  en: English	Tuvalu	Tuvalu
+  Tuvaluan	Tuvalu	Tuvalu
+  UN Official
+  English	Tuvalu	Tuvalu
+  French	Tuvalu (masc.)	Tuvalu (masc.)
+  Spanish	Tuvalu	Tuvalu
+  Russian	Тувалу	Тувалу
+  Chinese	图瓦卢	图瓦卢
+  Arabic	‫توفالو‬	‫توفالو‬
+  Notes
+UG	UGANDA
+  Language	Short name	Formal name
+  National Official
+  en: English	Uganda	Republic of Uganda (the)
+  UN Official
+  English	Uganda	Republic of Uganda (the)
+  French	Ouganda (l’) (masc.)	République de l’Ouganda (la)
+  Spanish	Uganda	República de Uganda (la)
+  Russian	Уганда	Республика Уганда
+  Chinese	乌干达	乌干达共和国
+  Arabic	‫أوغندإ‬	‫ُجهورية أوغندإ‬
+UA	UKRAINE
+  Language	Short name	Formal name
+  National Official
+  uk: Ukrainian	Украïна	Украïна
+  Ukraina	Ukraina
+  UN Official
+  English	Ukraine	Ukraine
+  French	Ukraine (l’) (fém.)	Ukraine (l’) (fém.)
+  Spanish	Ucrania	Ucrania
+  Russian	Украина	Украина
+  Chinese	乌克兰	乌克兰
+  Arabic	‫أوكرإنيا‬	‫أوكرإنيا‬
+  Notes
+AE	UNITED ARAB EMIRATES
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإ إل َم َارإت‬	‫َإ إل َم َارإت إَلْ َع َ ِرب َّية َإلْ ممتَّ ِحدَة‬
+  Al Imārāt	Al Imārāt al ‘Arabiyyah al Muttaḩidah
+  UN Official
+  English	United Arab Emirates (the)	United Arab Emirates (the)
+  French	Émirats arabes unis (les)	Émirats arabes unis (les)
+  Spanish	Emiratos Árabes Unidos (los)	Emiratos Árabes Unidos (los)
+  Russian	Объединенные Арабские Эмираты	Объединенные Арабские Эмираты
+  Chinese	阿拉伯联合酋长国	阿拉伯联合酋长国
+  Arabic	‫إلإمارإت إلعربية إملتحدة‬	‫إلإمارإت إلعربية إملتحدة‬
+  Notes
+GB	UNITED KINGDOM
+  Language	Short name	Formal name
+  National Official
+  en: English	United Kingdom (the)	United Kingdom of Great Britain and Northern Ireland (the)
+  UN Official
+  English	United Kingdom of Great Britain and	United Kingdom of Great Britain and
+  Northern Ireland (the)	Northern Ireland (the)
+  French	Royaume-Uni de Grande-Bretagne et	Royaume-Uni de Grande-Bretagne
+  d’Irlande du Nord (le)	et d’Irlande du Nord (le)
+  Spanish	Reino Unido de Gran Bretaña e	Reino Unido de Gran Bretaña e
+  Irlanda del Norte (el)	Irlanda del Norte (el)
+  Russian	Соединенное Королевство Великобритании	Соединенное Королевство Великобритании
+  и Северной Ирландии	и Северной Ирландии
+  Chinese	大不列颠及北爱尔兰联合王国	大不列颠及北爱尔兰联合王国
+  Arabic	‫إململكة إملتحدة لربيطانيا إلعظمى وأيرلندإ إلشاملية‬	‫إململكة إملتحدة لربيطانيا إلعظمى وأيرلندإ إلشاملية‬
+  Notes
+US	UNITED STATES OF AMERICA
+  Language	Short name	Formal name
+  National Official
+  en: English	United States (the)	United States of America (the)
+  UN Official
+  English	United States of America (the)	United States of America (the)
+  French	États-Unis d’Amérique (les)	États-Unis d’Amérique (les)
+  Spanish	Estados Unidos de América (los)	Estados Unidos de América (los)
+  Russian	Соединенные Штаты Америки	Соединенные Штаты Америки
+  Chinese	美利坚合众国	美利坚合众国
+  Arabic	‫إلولايت إملتحدة إلمريكية‬	‫إلولايت إملتحدة إلمريكية‬
+  Notes
+UY	URUGUAY
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Uruguay (el)	República Oriental del Uruguay (la)
+  UN Official
+  English	Uruguay	Eastern Republic of Uruguay (the)
+  French	Uruguay (l’) (masc.)	République orientale de l’Uruguay (la)
+  Spanish	Uruguay (el)	República Oriental del Uruguay (la)
+  Russian	Уругвай	Восточная Республика Уругвай
+  Chinese	乌拉圭	乌拉圭东岸共和国
+  Arabic	‫أوروغوإي‬	‫ُجهورية أوروغوإي إلرشقية‬
+  Notes
+UZ	UZBEKISTAN
+  Language	Short name	Formal name
+  National Official
+  uz: Uzbek	O‘zbekiston	O‘zbekiston Respublikasi
+  UN Official
+  English	Uzbekistan	Republic of Uzbekistan (the)
+  French	Ouzbékistan (l’) (masc.)	République d’Ouzbékistan (la)
+  Spanish	Uzbekistán	República de Uzbekistán (la)
+  Russian	Узбекистан	Республика Узбекистан
+  Chinese	乌兹别克斯坦	乌兹别克斯坦共和国
+  Arabic	‫أوزبكس تان‬	‫ُجهورية أوزبكس تان‬
+  Notes
+VU	VANUATU
+  Language	Short name	Formal name
+  National Official
+  bi: Bislama	Vanuatu	Ripablik blong Vanuatu
+  en: English	Vanuatu	Republic of Vanuatu (the)
+  fr: French	Vanuatu (masc.)	République de Vanuatu (la)
+  UN Official
+  English	Vanuatu	Republic of Vanuatu (the)
+  French	Vanuatu (masc.)	République de Vanuatu (la)
+  Spanish	Vanuatu	República de Vanuatu (la)
+  Russian	Вануату	Республика Вануату
+  Chinese	瓦努阿图	瓦努阿图共和国
+  Arabic	‫فانوإتو‬	‫ُجهورية فانوإتو‬
+  Notes
+VE	VENEZUELA (BOLIVARIAN REPUBLIC OF)
+  Language	Short name	Formal name
+  National Official
+  es: Spanish	Venezuela	República Bolivariana de Venezuela (la)
+  UN Official
+  English	Venezuela (Bolivarian Republic of)	Bolivarian Republic of Venezuela (the)
+  French	Venezuela (République bolivarienne du)	République bolivarienne du Venezuela (la)
+  Spanish	Venezuela (República Bolivariana de)	República Bolivariana de Venezuela (la)
+  Russian	Венесуэла (Боливарианская Республика)	Боливарианская Республика Венесуэла
+  Chinese	委内瑞拉（玻利瓦尔共和国）	委内瑞拉玻利瓦尔共和国
+  Arabic	(‫] إلبوليفارية‬...[ ‫فزنويال )ُجهورية‬	‫ُجهورية فزنويال إلبوليفارية‬
+  Notes
+VN	VIET NAM
+  Language	Short name	Formal name
+  National Official
+  vi: Vietnamese	Việt Nam	Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+  UN Official
+  English	Viet Nam	Socialist Republic of Viet Nam (the)
+  French	Viet Nam (le)	République socialiste du Viet Nam (la)
+  Spanish	Viet Nam	República Socialista de Viet Nam (la)
+  Russian	Вьетнам	Социалистическая Республика Вьетнам
+  Chinese	越南	越南社会主义共和国
+  Arabic	‫فييت انم‬	‫ُجهورية فييت انم الاشرتإكية‬
+  Notes
+YE	YEMEN
+  Language	Short name	Formal name
+  National Official
+  ar: Arabic	‫َإلْ َي َمن‬	‫َإلْ مج ْمه ِموريَّة َإلْ َي َم ِنيَّة‬
+  Al Yaman	Al Jumhūriyyah al Yamaniyyah
+  UN Official
+  English	Yemen	Republic of Yemen (the)
+  French	Yémen (le)	République du Yémen (la)
+  Spanish	Yemen (el)	República del Yemen (la)
+  Russian	Йемен	Йеменская Республика
+  Chinese	也门	也门共和国
+  Arabic	‫إلمين‬	‫إمجلهورية إلمينية‬
+  Notes
+ZM	ZAMBIA
+  Language	Short name	Formal name
+  National Official
+  en: English	Zambia	Republic of Zambia (the)
+  UN Official
+  English	Zambia	Republic of Zambia (the)
+  French	Zambie (la)	République de Zambie (la)
+  Spanish	Zambia	República de Zambia (la)
+  Russian	Замбия	Республика Замбия
+  Chinese	赞比亚	赞比亚共和国
+  Arabic	‫زإمبيا‬	‫ُجهورية زإمبيا‬
+  Notes
+ZW	ZIMBABWE
+  Language	Short name	Formal name
+  National Official
+  en: English	Zimbabwe	Republic of Zimbabwe (the)
+  UN Official
+  English	Zimbabwe	Republic of Zimbabwe (the)
+  French	Zimbabwe (le)	République du Zimbabwe (la)
+  Spanish	Zimbabwe	República de Zimbabwe (la)
+  Russian	Зимбабве	Республика Зимбабве
+  Chinese	津巴布韦	津巴布韦共和国
+  Arabic	‫زمبابوي‬	‫ُجهورية زمبابوي‬
+  Notes

@@ -1,0 +1,14 @@
+{
+  "name": "ungegn_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Carroll <me@evancarroll.com> (http://www.evancarroll.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
